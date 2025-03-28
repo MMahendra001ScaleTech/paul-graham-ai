@@ -1,0 +1,13 @@
+nltk
+tqdm
+pandas
+numpy
+requests
+beautifulsoup4
+snscrape
+youtube-transcript-api
+langdetect
+transformers
+torch
+sentence-transformers
+scikit-learn
