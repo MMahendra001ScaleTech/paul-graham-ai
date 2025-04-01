@@ -1,0 +1,259 @@
+tweet_text,tweet_length_word_count,tweet_length_char_count,sentiment_score,question_ratio,first_person_ratio,complex_word_ratio,connector_count,metaphor_count,analogy_count,hashtag_count,keywords_count,tone
+"RT @elonmusk: Congratulations to the @SpaceX and @NASA teams for another safe astronaut return!
+
+Thank you to @POTUS for prioritizing this…",27,139,0.625,0.0,0.0,0.07407407407407407,0,0,0,0,0,neutral
+"RT @elonmusk: Merry Christmas and may you have a wonderful New Year! 🎁🎄🎅 
+
+ https://t.co/BNg7Mk5Dnd",19,99,0.5852272727272727,0.0,0.0,0.05263157894736842,0,0,0,0,0,neutral
+RT @Wisdom_HQ: 11. https://t.co/G6Rh3wTk6u,8,42,0.0,0.0,0.0,0.125,0,0,0,0,0,neutral
+"RT @Wisdom_HQ: 15 Visuals about Psychology and Life:
+
+1. https://t.co/Qh2KOmuqOK",15,80,0.0,0.0,0.0,0.06666666666666667,0,0,0,0,0,neutral
+RT @Wisdom_HQ: 2. https://t.co/a4y5zLikuB,8,41,0.0,0.0,0.0,0.125,0,0,0,0,0,neutral
+be one : ) https://t.co/LPLDAm2PsH,7,34,0.5,0.0,0.0,0.14285714285714285,0,0,0,0,0,neutral
+RT @strongminded101: 8. https://t.co/rfqibI6LBc,8,47,0.0,0.0,0.0,0.25,0,0,0,0,0,neutral
+"RT @nealtaparia: 12 companies started by teenagers:
+
+1. Facebook – Mark Zuckerberg (age 19) https://t.co/PfhHPcr5Ln",23,115,0.0,0.0,0.0,0.08695652173913043,0,0,0,0,0,neutral
+"RT @Rana_kamran43: Do you think your boss is scary?
+
+Look at the brutal emails from the CEOs of Microsoft, Apple, Tesla and Facebook: https…",30,140,-0.6875,0.5,0.0,0.03333333333333333,0,0,0,0,0,reflective
+@render I learned/deploy my @nextjs  app which uses the @strapijs with @PostgreSQL db. You guys have everything in the place. #read #think #code #deploy 🚀,35,154,0.0,0.0,0.02857142857142857,0.02857142857142857,0,0,0,4,0,reflective
+"RT @JonErlichman: Estimated number of internet users worldwide:
+
+2024:  5.5 billion 
+
+2014:   2.8 billion 
+
+2004: 913 million
+
+1994:   20 m…",27,140,0.0,0.0,0.0,0.037037037037037035,0,0,0,0,0,neutral
+RT @neuronpowers: Four reminders for when you get caught in overthinking https://t.co/UU4EpfF5B0,16,96,0.0,0.0,0.0,0.1875,0,0,0,0,0,reflective
+"RT @levelsio: Maybe dumb question
+
+But if business class is so profitable
+
+Why don't airlines make only business class planes?
+
+Not enough…",26,139,-0.1875,0.5,0.0,0.0,2,0,0,0,0,neutral
+"RT @NavalismHQ: If the work doesn’t require creativity, delegate it, automate it, or leave it.
+
+@naval",25,102,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+@PhilosophyMonk Read it again : even if for just 10 min.,13,56,0.0,0.0,0.0,0.07692307692307693,0,0,0,0,0,philosophical
+"RT @PhilosophyMonk: 10 Simple Habits to Maximize Your QUALITY OF LIFE...
+
+1. The 1% rule https://t.co/OdOUMWOTUh",23,112,0.0,0.0,0.0,0.08695652173913043,0,0,0,0,0,philosophical
+"RT @NanouuSymeon: As a Developer, do you use ChatGPT daily?",14,59,0.0,1.0,0.0,0.07142857142857142,0,0,0,0,0,neutral
+RT @PsycheWizard: https://t.co/mwxtwONM3L,7,41,0.0,0.0,0.0,0.2857142857142857,0,0,0,0,0,neutral
+"@ShohanUIX @YouTube Thank you, yes it does sparked some inspiration. My takeaway was there are some problems that are well known but we don’t go after them because of lack of domain knowledge in that specific area and it’s hard to get around to resolve it due to complexity of it. It’s opportunity.",65,298,-0.1388888888888889,0.0,0.015384615384615385,0.03076923076923077,1,0,0,0,0,neutral
+RT @benln: Paul Graham on how to raise money: https://t.co/PjDHmVIvY0,15,69,0.0,0.0,0.0,0.06666666666666667,0,0,0,0,0,neutral
+"How to Get and Evaluate Startup Ideas | Startup School https://t.co/W3AirYkUcH via @YouTube
+
+#read #think #code",22,111,0.0,0.0,0.0,0.045454545454545456,0,0,0,3,2,reflective
+#DEVFESTAHM https://t.co/SRy9OSTixM,5,35,0.0,0.0,0.0,0.2,0,0,0,1,0,neutral
+"RT @GDGAhmedabad: [#DevFestAhm Speaker Announcement #30 – Harsh Dattani]
+Excited to welcome @dattaniharsh , Program Manager, Developer Rela…",26,140,0.05625000000000002,0.0,0.0,0.11538461538461539,0,0,0,2,0,neutral
+"https://t.co/81pJxHgPcO
+
+#read #think #code",9,43,0.0,0.0,0.0,0.1111111111111111,0,0,0,3,0,reflective
+"RT @yegordb: I’m at Stanford and I research software engineering productivity. 
+
+We have data on the performance of &gt;50k engineers from 100…",30,143,0.0,0.0,0.1,0.1,0,0,0,0,0,neutral
+"https://t.co/QdYIaVPMC1
+
+#read #think #code  #flowState",11,55,0.0,0.0,0.0,0.09090909090909091,0,0,0,4,0,reflective
+RT @TataCompanies: https://t.co/QmtipQIovR,7,42,0.0,0.0,0.0,0.2857142857142857,0,0,0,0,0,neutral
+"RT @AlexBelogubov: 4 Years, 26 Projects, $115k: Lessons from an Indie Hacker 👇",19,78,0.0,0.0,0.0,0.05263157894736842,0,0,0,0,0,neutral
+RT @wiseconnector: Which one? https://t.co/sadOZNL8Cc,10,53,0.0,0.5,0.0,0.2,0,0,0,0,0,neutral
+"https://t.co/n0LCUQig3K
+
+#read #think #code",9,43,0.0,0.0,0.0,0.1111111111111111,0,0,0,3,0,reflective
+"RT @alex_skazka: If you didn't have to make money, what would you do with your time?
+
+I'd love to do something with animals - open a shelte…",33,140,0.25,0.5,0.030303030303030304,0.030303030303030304,0,0,0,0,0,neutral
+"RT @thedarshakrana: @wiseconnector The most addictive thing isn’t heroine, cocaine or alcohol   
+
+It’s comfort.  
+
+Comfort tricks you into…",27,139,0.25,0.0,0.0,0.07407407407407407,0,0,0,0,0,neutral
+RT @jordanbpeterson: My conversation with @elonmusk. Live today at 3pm ET. https://t.co/RyaZFmvC8i,19,98,0.13636363636363635,0.0,0.0,0.15789473684210525,0,0,0,0,0,neutral
+"https://t.co/XVPSLvp2YI
+
+#read #think #write",9,44,0.0,0.0,0.0,0.1111111111111111,0,0,0,3,0,reflective
+@wiseconnector Family is everything.,6,36,0.0,0.0,0.0,0.16666666666666666,0,0,0,0,0,neutral
+"@alex_skazka As software engineer : no 
+
+- can’t code properly 
+- can’t push my code to git or otherwise 
+- no music : can’t go in the zone as i used to.
+- no references : ChatGPT / Google / blogs / videos .. nothing to learn, nothing to read. 
+- can’t do teamwork / can’t have clients call",73,290,0.0,0.0,0.0136986301369863,0.0136986301369863,0,0,0,0,0,neutral
+"RT @theallinpod: E184: in conversation with @realDonaldTrump, live on @X 
+
+(0:00) bestie intros: big house talk!
+
+(1:37) economy: regulatio…",32,140,0.06818181818181818,0.0,0.0,0.09375,0,0,0,0,0,neutral
+RT @elonmusk: https://t.co/Q5lu80rNsx,7,37,0.0,0.0,0.0,0.14285714285714285,0,0,0,0,0,neutral
+"@wiseconnector Health , Education and Family.",8,45,0.0,0.0,0.0,0.125,0,0,0,0,0,neutral
+RT @elonmusk: Stream Test 3 https://t.co/1ih0ZAY2tS,10,51,0.0,0.0,0.0,0.1,0,0,0,0,0,neutral
+"RT @24hoursoflemans: 𝗧𝗵𝗲 𝟮𝟬𝟮𝟰 𝟮𝟰 𝗛𝗼𝘂𝗿𝘀 𝗼𝗳 𝗟𝗲 𝗠𝗮𝗻𝘀 𝗵𝗮𝘀 𝗯𝗲𝗴𝘂𝗻!
+See you at 16:00 tomorrow to crown the 92nd winning team.
+
+#WEC #LeMans https:…",33,140,0.5,0.0,0.0,0.030303030303030304,0,0,0,2,0,neutral
+@elonmusk I want this at India so i can work from my home town in peace.,18,72,0.0,0.0,0.1111111111111111,0.0,1,0,0,0,0,neutral
+"RT @OpenAI: Say hello to GPT-4o, our new flagship model which can reason across audio, vision, and text in real time: https://t.co/MYHZB79U…",30,140,0.16818181818181818,0.0,0.0,0.03333333333333333,0,0,0,0,0,neutral
+"https://t.co/BRw54ZWUYM
+
+#reactconf2024",5,39,0.0,0.0,0.0,0.4,0,0,0,1,0,neutral
+"Learning is an iteration of making mistakes and improving as we go further. 
+
+#read #think #learn",20,97,0.0,0.0,0.05,0.0,0,0,0,3,0,reflective
+"Learn how to talk code. 
+
+Learn to communicate in written and spoken words effectively. 
+
+Learn to talk your minds out.
+
+Learn how to share/explain complex ideas in the most simple way possible.
+
+#read #think #code",42,214,0.16,0.0,0.0,0.07142857142857142,0,0,0,3,0,reflective
+"It matters a lot who you surround yourself with.
+
+#read #think #ideas",16,69,0.0,0.0,0.0,0.0,0,0,0,3,0,reflective
+"RT @then_there_was: I can’t help but think even if machines were made illegal in the workplace, inevitably people will offload their labor…",27,139,-0.25,0.0,0.037037037037037035,0.037037037037037035,1,0,0,0,0,reflective
+"RT @elonmusk: We should send rockets not at each other, but rather to the stars https://t.co/h4apedUrsU",21,103,-0.125,0.0,0.047619047619047616,0.047619047619047616,1,0,0,0,0,assertive
+"Think of it like : 
+
+We as a programmers write some piece of text that we call code to tell exactly what the ""Computer"" should do. 
+
+Now think about that written piece of program,evolve and improve itself on it's own with time and experience. 
+
+Is that ML?Wow  #read #think #write",62,280,0.425,0.3333333333333333,0.03225806451612903,0.016129032258064516,0,1,1,3,0,assertive
+"Machine Learning ? 
+
+As i read in the article : Accordingly To Mitchell  
+
+Machine learning is  ""concerned with the question of how to construct computer programs that ""Automatically"" improve with experience.""",36,209,0.0,0.5,0.027777777777777776,0.05555555555555555,0,0,0,0,0,neutral
+"🔍 Dive deep into your learning journey! 🚀 Before mastering a skill, ask yourself: Why? What problem does it solve? 🤔 Embrace the challenge, connect the dots, and make every lesson an adventure! 💡 
+
+#LearnWithPurpose #ConnectTheDots #Curiosity",48,242,0.0,0.4,0.0,0.041666666666666664,0,0,0,3,0,neutral
+"#read #think #build 
+
+What problem you can solve ?
+
+https://t.co/fQnnrScY1r",15,75,0.0,0.5,0.0,0.06666666666666667,0,0,0,3,0,reflective
+RT @superjz: Are you solving the below problems with the solution set of the 2020s and 2030s? Would love to partner with you. #discover htt…,30,140,0.5,0.3333333333333333,0.0,0.0,0,0,0,1,0,neutral
+https://t.co/vOBqwL2HQK,3,23,0.0,0.0,0.0,0.3333333333333333,0,0,0,0,0,neutral
+https://t.co/ii7CZDMEhz,3,23,0.0,0.0,0.0,0.3333333333333333,0,0,0,0,0,neutral
+"#read #think #code 
+
+https://t.co/fvapSGY9Zb.",10,45,0.0,0.0,0.0,0.1,0,0,0,3,0,reflective
+"#read #think #build 
+
+https://t.co/hEchaXvQrk",9,45,0.0,0.0,0.0,0.1111111111111111,0,0,0,3,0,reflective
+"#read #listen #learn 
+
+https://t.co/N8Fm7gYqDB",9,46,0.0,0.0,0.0,0.1111111111111111,0,0,0,3,0,neutral
+"Read , Think and Code. 
+
+https://t.co/GKQjsroNPs",9,48,0.0,0.0,0.0,0.1111111111111111,0,0,0,0,0,reflective
+"RT @thedankoe: Instagram rewards looks.
+
+LinkedIn rewards expertise.
+
+Twitter rewards ideas.
+
+All of them make people seem hotter, smarter,…",27,140,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+"Just watched Terminator 2 again after seen back in school time.
+
+It’s amazing to see how they made movies like such on AI back then with that level of effort.  Holy c.
+
+Feel free to recommend movies, books that you think are holy c to you 😁
+
+#read #think #code",58,260,0.2,0.0,0.0,0.0,0,1,1,3,0,reflective
+RT @engineers_feed: We should all get the same answer folks 💪🏼 https://t.co/ObtPRgMDrH,16,86,0.0,0.0,0.0625,0.125,0,0,0,0,0,assertive
+"RT @catalinmpit: Someone wants to build an application with AI capabilities.
+
+What tutorials can you recommend to learn about integrating A…",24,140,0.2,0.0,0.0,0.16666666666666666,0,0,0,0,0,neutral
+RT @0xgaut: The internet is a bunch of giant cables https://t.co/msuxy6JFpN,15,75,0.0,0.0,0.0,0.06666666666666667,0,0,0,0,0,neutral
+"RT @freeCodeCamp: Machine learning has tons of applications – and you probably use some of them daily.
+
+So if you want to be a machine lear…",29,140,0.0,0.0,0.0,0.06896551724137931,1,0,0,0,0,neutral
+"RT @NavalismHQ: ""Asymmetric opportunities:
+
+Invest in startups
+Start a company
+Create a book, podcast, video
+Create a (software) product
+Go…",28,140,0.0,0.0,0.0,0.03571428571428571,0,0,0,0,0,neutral
+@wiseconnector 🌱,3,16,0.0,0.0,0.0,0.3333333333333333,0,0,0,0,0,neutral
+"@lpdahito Show your work , make portfolio. Develop small projects on your own and represent them their.  Push daily commits as a proof of work.",29,143,0.11666666666666665,0.0,0.0,0.0,0,0,0,0,0,neutral
+"RT @NavalismHQ: ""Escape competition through authenticity.""
+
+@naval",13,66,0.0,0.0,0.0,0.15384615384615385,0,0,0,0,0,neutral
+RT @elonmusk: May Starship serve as a beacon of hope for the future,15,67,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+@jaredpalmer Mantine UI,4,23,0.0,0.0,0.0,0.25,0,0,0,0,0,neutral
+"Are you playing the right game ? 
+
+#read #think #create https://t.co/DW0sqOgBFy",16,79,-0.05714285714285716,0.5,0.0,0.0625,0,0,0,3,0,reflective
+"RT @NavalismHQ: ""Good investors don’t sell investment advice.""
+
+@naval",17,70,0.7,0.0,0.0,0.0,0,0,0,0,0,neutral
+Creative content is new oil. #read #think #create,12,49,0.3181818181818182,0.0,0.0,0.0,0,0,0,3,0,reflective
+RT @natfriedman: Played with this yesterday and was very impressed,12,66,1.0,0.0,0.0,0.08333333333333333,0,0,0,0,0,neutral
+Consume to get ideas and come up with your original ones. Be authentic to yourself first.   #note,20,97,0.375,0.0,0.0,0.0,0,0,0,1,0,neutral
+"First rule of creative pursuit it to focus more on creative part on things , don't just consume. 
+
+#stayFocused #happyCreating",24,126,0.4375,0.0,0.0,0.08333333333333333,0,0,0,2,0,neutral
+RT @elonmusk: All-In,5,20,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+RT @Erdayastronaut: Impressive to see the whole list of action items that SpaceX needed to address before the next flight! I have a feeling…,27,140,0.325,0.0,0.037037037037037035,0.037037037037037035,0,0,0,0,0,assertive
+@then_there_was It’s like we are the torch that lighting up the darkness to gain new knowledge.,20,95,0.13636363636363635,0.0,0.05,0.05,0,1,1,0,0,neutral
+@then_there_was Little bit of uncertainty is the main ingredient there.,12,71,-0.010416666666666671,0.0,0.0,0.16666666666666666,0,0,0,0,0,neutral
+"RT @jordanbpeterson: Ok 
+buddy
+you want to play that game
+name one
+harmful
+hateful
+incorrect
+or dishonest statement
+
+one
+
+tell me where I l…",26,140,-0.06666666666666667,0.0,0.038461538461538464,0.038461538461538464,0,0,0,0,0,neutral
+RT @AerialEng: @milessebastian1 @archillect War Games 1983,11,58,0.0,0.0,0.0,0.09090909090909091,0,0,0,0,0,neutral
+RT @archillect: https://t.co/6xwhaYiq1B,7,39,0.0,0.0,0.0,0.14285714285714285,0,0,0,0,0,neutral
+"Super Intelligence by Nick Bostrom 📖
+
+#read #think #code 
+
+#ai #technology #innovation https://t.co/6o8fLp0Bjh",21,110,0.3333333333333333,0.0,0.0,0.09523809523809523,0,0,0,6,0,reflective
+"RT @_akhaliq: Large Language Models as Optimizers
+
+paper page: https://t.co/Sk7tUEGbm7
+
+Optimization is ubiquitous. While derivative-based…",21,139,0.21428571428571427,0.0,0.0,0.14285714285714285,0,0,0,0,0,neutral
+"RT @0xPaulius: Most people won’t become prompt engineers
+
+But if you can transform user input into a great output?
+
+You can build niche too…",29,140,0.65,0.5,0.0,0.0,1,0,0,0,0,neutral
+"RT @abacaj: ""optimized prompts outperform human-designed prompts ... sometimes over 50%"" - there goes prompt engineering https://t.co/AfplA…",24,140,0.0,0.0,0.0,0.125,0,0,0,0,0,neutral
+"RT @engineers_feed: The core temperature of the sun is approx 15,000,000 °C. 
+
+Highest temperature ever achieved on Earth is 5,500,000,000,…",25,140,0.0,0.0,0.0,0.16,0,0,0,0,0,neutral
+"RT @catalinmpit: Improve your VS Code Explorer file tree structure.
+
+Add these settings in your configuration file for better visibility:…",25,138,0.5,0.0,0.0,0.08,0,0,0,0,0,neutral
+"RT @liangsays: Bucket list before 30:
+❏ build something 1m ppl will use
+❏ meet the coolest person in the world
+❏ shake hands with a Preside…",30,140,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+RT @patrickc: Or: solar deployment is ~0.5% of global GDP and growing 43% Y/Y.,20,78,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+@hnshah Developer &gt; Ailoper,7,30,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+Use your free time to analyse the things you are doing at the moment and prepare yourself for be great at every single one of them. #read #think #learn,33,151,0.37619047619047624,0.0,0.0,0.0,0,0,0,3,0,reflective
+@alex_skazka Consistency behind the scenes.,7,43,-0.4,0.0,0.0,0.2857142857142857,0,0,0,0,0,neutral
+@shl Computers for gov super powers. Then it went personal.,13,59,0.16666666666666666,0.0,0.0,0.0,0,0,0,0,0,neutral
+RT @shl: Every industry started as someone’s side project.,14,58,0.0,0.0,0.0,0.0,0,0,0,0,0,neutral
+@trunarla We are lucky.,6,23,0.3333333333333333,0.0,0.16666666666666666,0.0,0,0,0,0,0,neutral
+"@trunarla Think about it , couple of decades back this wasn’t even option.",17,74,0.0,0.0,0.0,0.0,0,0,0,0,0,reflective
