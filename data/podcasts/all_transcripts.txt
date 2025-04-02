@@ -1,0 +1,929 @@
+Want to see how much impact Paul Graham can have a startup? Here are 3 examples from past Mixergy interviews. The first is Alexis Ohanian, who told me that his life changed when he headed to snowy Boston over Spring break so he could hear Graham talk about startups. Graham ended up investing in Alexis’s company through what became the seed funding firm Y Combinator, but the amazing part wasn’t the money. It was that Y Combinator helped him move past a bad business idea that he and his partner spent a year on, and discover a better one, which became Reddit, the social news site that was sold to Conde Nast within 2 years of launching.
+Then there’s Kevin Hale who told me that when he interviewed with Y Combinator, he and his co-founders had an idea for an elaborate content management system. During the interview, despite initial resistance, they were convinced to create a form builder instead. The business became Wufoo, the startup that reached profitability within 9 months.
+Finally, a few weeks ago, I talked to the founders of AirBnb. When they joined Y Combinator, they had a site that gave travelers an affordable alternative to hotels by matching them with locals who had space in their homes. They had a national presence, but they were constantly struggling for cash. Y Combinator gave them some funding to keep going, but they told me it was Graham’s suggestion that they focus on just one city till they got their product right, which changed everything. Within a few months, they had a better product and they were finally profitable.
+How does Graham do it? That’s what I wanted to find out in this interview.
+The podcast is in all major apps, just search for Mixergy.You can also use our  RSS feed.
+Paul Graham is a partner at Y Combinator, which gives startups seed funding and mentorship. He’s known for his work on a new Lisp dialect called “Arc,” his essays, and for founding and administering Hacker News. Previously, he co-founded Viaweb, which was sold in 1998 and became Yahoo! Store.
+ 
+Andrew:  This interview is sponsored by Wufoo, which makes embeddable forms in surveys that you can add to your website right now. Check out Wufoo.com. It’s also sponsored by Shopify.com, where you can create an online store right now, within five minutes, and have all the features that you need to keep selling online. Check out Shopify.com. And it’s sponsored by Grasshopper, the virtual phone system that entrepreneurs love because it has all the features that they need, and can be managed directly online. Here’s the interview.
+Hey, everyone, it’s Andrew Warner, founder of Mixergy.com, home of the ambitious upstart. You guys know what we do here. I interview entrepreneurs about how they build their business to find out what the rest of us can learn from their experiences. And, Paul, I’m going to ask you about that smile in a minute because I’d love your feedback on some of the ways that I do my interviews here.
+Today, I’ve got Paul Graham. He is the co-founder of Y-Combinator, which funds and advises startups. He’s also an author whose essays are devoured by entrepreneurs. He’s a hacker who administers Hacker News, and previously he co-founded Viaweb, which he sold to Yahoo. The smile, by the way, that I was asking you about. A lot of times when I do my interviews, I start them off with “home of the ambitious upstart,” and I look at the person who I respect, who I brought on here to do this interview, and I wonder, does he think it’s ridiculous, or is this a charming, interesting part of the program? What do you think?
+Paul:   The ambitious upstart part?
+Andrew:  Yeah.
+Paul:  Well, what I was thinking when I heard it is, “Oh, good. This is my kind of place.”
+Andrew:  Oh, good.
+Paul:  I wasn’t thinking about whether it was a particularly good marketing tagline.
+Andrew:  Oh, good. Then if you think it’s your kind of place, then it is a good tagline for me.
+Paul:   Yeah, ambitious and upstart, that’s exactly what I’m looking for.
+Andrew:  Perfect. As I told you earlier, I’m going to be structuring this as the biography of Y-Combinator and along the way, I’d like to see what you’ve learned as you funded, I think it’s 172 startups, you told me.
+Paul:   One hundred and seventy-two, yeah.
+Andrew:  Wow. Well, let’s start off with the essay since that’s how many entrepreneurs get to know you. Why did you start writing about entrepreneurship?
+Paul:  Well, I write about whatever I’m thinking about. So I just started thinking about entrepreneurship. I think that started because I had to give a talk to the Undergraduate Computer Society at Harvard. In fact, that’s what Y-Combinator grew out of. So I had to give a talk to these undergrads and I thought, “What shall I tell them?” What could I tell? So I thought, “All right. I’ll tell them how to start a startup.” So I gave this talk about how to start a startup and I put it online later as an essay called, “How to Start a Startup.” That Y-Combinator literally grew out of that talk.
+Andrew:  What happened? How does a talk become a revolution?
+Paul:  Well, what happened was I was giving them advice, sort of in real time, that they should raise money from angels. The best thing was to raise money from angels who had themselves made their money from doing a startup because then they could give you advice, as well as money. And I noticed all these guys were looking at me sort of expectantly, in fact, sort of like baby birds. I thought, “Jesus, they’re all going to email me their business plans.” So I said, “Not me.” Right? Because I had never done any angel investing at that point and I didn’t want to start. But then I immediately felt guilty.
+I went to dinner with some of them afterward and I thought, “Even though these guys are just undergrads, I bet a lot of these guys could do it. They could figure it out.” So I thought, “All right, all right. I’ll start angel investing.” So Y-Combinator happened just because I wanted to start angel investing. Originally, Y-Combinator was just going to be like regular angel investing, asynchronous, not this whole batch model. We discovered that later, by accident.
+Andrew:  Who are the original startups that were so good, were so inspiring, that you said, “I’ve got to back these guys”?
+Paul:  Well, Reddit, the founders of Reddit were at that talk. They came on a train from Virginia.
+Andrew:  From Virginia, they told me, that they got over to see you.
+Paul:  That’s a long train ride. So I was impressed by their determination. That was actually why we funded them because they were so determined that they came on the train all the way from Virginia to hear that talk.
+Andrew:  What else was it about them? Because I’m sure there are a lot of people now who will come and travel a long way to see you and they don’t have that magic. But I talked to Alexis and he said that you didn’t like his original business idea, but you liked something about him to bring him back. And I asked him what it was that Paul Graham saw in him, and he couldn’t define it. So now that I’ve got you here, what is it about him? Maybe from there we can extrapolate.
+Paul:  [inaudible 00:04:50] Steve. He and Steve were both smart, and they were determined, and they seemed flexible. They seemed like they really wanted to start a startup. But it’s a little bit misleading to ask what I liked because Jessica, her nickname in Y-Combinator is The Social Radar. I actually have bad judgment of character. I’m not good at judging people. Really, I’m kind of bad at it. I know I’m bad at it. But Jessica, she is very rarely wrong. There will be somebody I meet and I really like, and she says, “You know, there’s something off about him.” And it always turns out she’s right, always. So I’ve learned, like when Jessica says, “These people are good,” or “These people are bad,” I should really listen. A lot of people don’t realize.
+Strangely enough, I’m actually sitting where the founders sit in Y-Combinator interviews. This is what the world looks like. What I see is what the world looks like to them, what’s behind me is the back of the room. We bring these people in for interviews, and I think a lot of them think Jessica is some kind of secretary, or something like that because she’s the one who smiles at them and greets them and remembers their name.
+We pepper them with questions about technical stuff during the interview and she doesn’t ask as many questions. What happens after the interview is they walk out. Basically, I’ll turn to Jessica and say, “Okay. Should we fund them?” Right? Because she is such a fabulous judge of people, and she really liked the Reddits. She called them The Muffins because she thought they were cute. So Jessica was really happy when we ended up funding the Reddits after all because she was bummed that we had to reject them.
+Andrew:  Okay. Let’s pause here and go back a little bit and talk about the people who started Y-Combinator with you. In that talk, you said that it’s important to get the right team together. On your team, it sounds like from the start you had Jessica Livingston, who was an investment banker at Adams Harkness before. You had Robert Morris, who was your partner at Viaweb and a long time friend.
+Paul:   And Trevor Blackwell. He worked on Viaweb too.
+Andrew:  Oh, Trevor Blackwell from Viaweb also.
+Paul:   Yeah, it was basically the same three people from Viaweb.
+Andrew:  Oh, so Jessica Livingston was at Viaweb with the three of you? I’m sorry, we had a little bit of a lag. Was Jessica Livingston . . .
+Paul:   No, no. No, she was not.
+Andrew:  Okay, so was it three of you?
+Paul:   Right, yeah.
+Andrew:  How did you find Jessica Livingston, and what was it about her?
+Paul:   I was [inaudible 00:07:23] her.
+Andrew:  Sorry?
+Paul:   I was going out with her.
+Andrew:  How did she go from girlfriend to partner?
+Paul:  Well, when we were going to start . . . we were going to start investing. And we didn’t know anything about the logistics of investing. She had one of these weird securities licenses. I think it’s called a Series 7, or something like that. She actually knows about this whole world. To this day, I have only skimmed our legal agreements. But she keeps this stuff in line. She knows how to do the mechanics of investing and we didn’t know how to do it. If it hadn’t been [inaudible 00:08:01] just the three of us, we would have never started this ourselves because who would have done all that crap. Or, sorry, who would have done all that very important work?
+Andrew:  Okay. So now you got to know her. What about Robert Morris and Trevor Blackwell? What did they bring to the partnership?
+Paul:  They’re very smart. I mean, they’re the smartest people I know. They’ve done the startup themselves. I mean, they have basically the same experience I do, in the same companies, and I can work with them. And Robert is our sys admin.
+Andrew:  I’m sorry?
+Paul:   Robert is our sys admin.
+Andrew:  I see.
+Paul:  We’re probably the only company that has a full professor at MIT as their grumpy sys admin.
+Andrew:  All right. So let’s go back then. Jessica Livingston sees these guys. She says, “I like them, there’s something about them. Let’s invest.”
+Paul:   Do you mean the Reddits?
+Andrew:  The Reddits, right. Yes, so you guys bring them in. What kind of structure, what kind of support system did you have back then?
+Paul:  It was pretty much the same as now. That very first summer. The reason we decided to invest in startups in batches all at once was because we didn’t know what we were doing, and so we thought, “Well, you know what we’ll do? We’ll have a summer program.” I don’t know if you have a programming background, but everybody treats summer jobs as kind of throw-away jobs as a programmer. You’re not expected to get a lot done. It’s just so the company can decide later if they want to hire you after you graduate.
+For both the hirers and the employees, summer jobs are kind of like a throw-away thing. So we thought, “Well, as long as everybody treats summer jobs as a throw-away thing, we’ll have this summer program, and if it turns out to be a disaster, no one will blame us. We can learn how to be investors at the same time these guys learn how to be startup founders.” The fastest, the most efficient thing is since it was going to be a summer program, it was synchronous. All these startups would get founded at once, just like everybody who works for Microsoft for the summer sort of shows up at about the same time.
+So the whole doing things in batch, we discovered by accident. But it worked so well, we decided, “All right, well, we’re going to keep doing this starting batches and startups all at once.” Initially, though, it was just an accident.
+Andrew:  What kind of help did you give them as you were doing this? I know about the weekly dinners that Alexis Ohanian said that he got a lot out of. I know that the entrepreneurs got to talk to each other and show each other their progress. What else did you do to support them along the way?
+Paul:  We got all their paperwork done. And we got them set up cleanly, so if there was some weird gotcha about the IP, like they had started working on the thing with their previous employer, we would tell them, “No, rewrite that code.” So by the time they got to the end, at demo day, they were like a clean start out, with no weird gotchas that would make investors barf, like former co-founders who were gone, but still had 30% of the company, or they didn’t own their IP, or someone hadn’t signed some agreement or something like that. And they were properly incorporated as Delaware C-corps instead of whatever broken LLC they came in with. All that stuff is not nothing. That’s actually the kind of stuff Jessica does.
+Demo day, everybody is in good shape as a company. We also gave them a lot of product advice. It turned out we had a knack for this, from having worked so long making web apps ourselves, literally since the beginning.
+Andrew:  How did you do that? That’s another thing that Alexis told me, that the idea for Reddit came from you and a lot of the entrepreneurs who you have backed have told me [inaudible 00:11:40].
+Paul:  The idea for Reddit was a combination of us and them, okay? We told them we didn’t like their original idea and we said, “Come back and we’ll talk about other ideas,” right? But we didn’t say, “Look, here is a wireframe. Build this.”
+Andrew:  I see, right. You said, “Here’s an idea, go run with it.” And they did go out there, and actually it was an idea that you guys came up with together?
+Paul:   Yeah.
+Andrew:  But you led them in the direction.
+Paul:  But they came back. When they came back from the next day and we talked for quite a long time the next day, and we cooked up something in that. I called them on the phone and said, “We loved you guys, even though we rejected you. If you come back, we’ll figure out something new for you to do.”
+Andrew:  I see. So how do you do that? I mean, yes, you did create one of the early web apps. Yes, you did create Viaweb, and you saw it all the way through to a sale to Yahoo, and you got to see the inside of a big company like Yahoo. But that still doesn’t seem like enough experience to be able to sit down with an entrepreneur and say, “Here, I’m going to help guide you in that direction.” What else was it?
+Paul:  I have a weird ability to do this, or something like that. I don’t know why. But I often worry that it will stop working. But it’s almost like some weird knack that people have. Like people who can tell you that December 21st, 1960 was a Tuesday, you know what I mean?
+It’s like that. Because it’s true, it wasn’t that I had such an enormous amount of experience. Somehow I seem to be able to look at a web app and think, “No, this is wrong, this is right.” And now I can say it, “Well, it’s because I’ve worked with 172 startups. Now I have tons of experience, probably more than anybody else.” But I seem to always have some kind of natural ability to do this.
+Andrew:  Okay. So what did you learn from that first class? What did you learn from that first experience of working with a batch of entrepreneurs on new companies?
+Paul:  We learned a lot of stuff. We learned some of these we had done by accident were really good. Like funding a whole bunch of startups at once is really good because they can all help one another. We learned that young people can actually successfully start startups. I think in how to start a startup, I said, “You should probably be like 24, or 25, or something like that before starting a startup.” Some of these guys in that first Y-Combinator batch . . . Sam Altman was 19 and he was the best startup in the batch. So lo and behold, you can start a startup even younger than we thought. Which is not to say that is the only age you want to start a startup, but the age range of potentially successful startups extends frighteningly low.
+Andrew:  I think, actually, you said that the cutoff was 38 and you’re over 38, running essentially a startup with Y-Combinator. How do you . . .
+Paul:  No, I’m not. There’s one big difference between Y-Combinator and a product company. We do not have customers who can call us any random time because something is breaking. And that is what makes a startup so hard. The closest thing I have to that is Hacker News, but if Hacker News is down for a day, it wouldn’t be the end of the world. Whereas Viaweb was down for like 10-minutes, we would have a lot of really angry people calling us. So there’s a big difference. I can go on vacation. A startup founder cannot go on vacation because who’s going to watch things?
+Andrew:  I see. I happen to know that the guys from Airbnb prided themselves on getting as many minutes of your time as they could while you were building out their product. But you’re saying there’s a limit to when they could call you. If they had a question in the middle of the night, at 2:00, they’d have to wait till the next day to call you.
+Paul:  Yeah, I mean, the kind of questions that founders ask me are not usually the kind of things that have to be answered at 2:00 a.m.. Sometimes they are, like if someone’s getting acquired, or something like that. But even then, M&A guys aren’t doing stuff [inaudible 00:15:46] the morning.
+Andrew:  Right, and it’s not breaking at 2:00, well, it might, but not often.
+Paul:   Yeah, what can happen at 2:00 a.m. are like usually technical problems.
+Andrew:  All right. So let’s talk about, then, the second group of people. What did you do differently as you were assembling that group?
+Paul:  Well, the second batch, the biggest, most obvious thing that was different was we were in California. We decided in our second batch that we would try doing one in California, partly because it’s much nicer in California in the winter. So we could be self-indulgent and also ambitious at the same time. So we decided we didn’t want somebody to say, “We’re going to be the Y-Combinator of Silicon Valley,” right? After we’d started it because we could kind of see pretty early on people would start copying us. In fact, I’m kind of surprised it took as long as it did. But we didn’t want somebody to say, “We’re the Y-Combinator of Silicon Valley.” We wanted to be the Y-Combinator of Silicon Valley. So we thought, “All right. We’ll do a batch out in Silicon Valley.”
+We decided at the last minute to do it in Silicon Valley. The application form for that batch said on it, “We don’t know where it’s going to be. It might be in California. It might be in Boston. If you can’t do it in someplace, tell us here.” Right? And the only way we could get a space in time was to carve out a piece of Trevor’s robot company building, which is where I’m sitting now. To this day, we’re in the middle of this robot company. It’s kind of entertaining, actually. There are all these big robots driving around.
+Andrew:  This is [inaudible 00:17:16] any thoughts [inaudible 00:17:17].
+Paul:   [inaudible 00:17:18] did we do? What else did we do differently?
+Andrew:  Yeah.
+Paul:  Not that much else, really. I mean, it was in the winter, so there was no question of it being a summer job for people.
+Andrew:  Did you get the sense, by then, of the kind of entrepreneur you wanted, that maybe there was a kind of entrepreneur that you thought you wanted but wasn’t a good fit? Was there [inaudible 00:17:41]?
+Paul:  We were getting better. We gradually got better. And we’re still not very good, even though we’re much better than we were when we first started. But we started to learn, for example, that it mattered a lot how much people actually wanted to do a startup. People who really did think of it just as a summer job at the end of the summer, they would go back to school, just like people do at a summer job. So we were starting to learn determination was the most important thing.
+Andrew:  How can you find determination? How can you know that somebody is determined for real, and not just, “This is it. I’ve got to . . . ” It’s not just a temporary thing?
+Paul:  That’s actually our single hardest problem, telling how determined people are. I mean, there are two things we care about: how determined people are and how smart they are. We can tell in a 10-minute interview how smart someone is. You just hit a few tennis balls across the net at them and see how hard they hit it back. Or if they whiff entirely.
+But telling how determined someone is in a 10-minute interview, we are often fooled. And actually the Y-Combinator alumni kind of hose us here because they tell people how to pretend to be determined during the interview. We meet these guys during the interview and they seem like real butt kickers, and lo and behold as the challenges of doing a startup emerge, they kind of fall apart.
+So we’re often fooled. It’s hard to tell, it’s hard to tell. You can’t just ask people, “So are you really determined?” It’s pretty obvious what the answer to that’s supposed to be. It’s hard.
+Andrew:  What kind of things does an entrepreneur do to fool you into thinking that they’re really determined?
+Paul:  Well, seeming really tough and calm during the interview. Why am I telling people [inaudible 00:19:31]?
+Andrew:  Because you guys are going to get better and as long as this information is out there, you might as well get it all the way out there and even the playing field.
+Paul:  That’s the danger of live interviews. Matt Maroon of Blue Frog Gaming, he was a professional poker player, I mean, talk about poker-faced. So he came in for his interview and he just seemed absolutely unflappable. We thought, “Boy, this guy is tough. This guy is not a wimp.” And actually, we were right. He was really tough. But to this day, he is genuinely unflappable, and I probably would want to fund more people who are really good poker players. I’ve noticed, empirically, there seems to be a high correlation between playing poker and being a successful startup founder.
+Andrew:  But then that’s not fooling you, that’s just . . .
+Paul:   That’s how you seem to tell.
+Andrew:  He had a calm, strong presence about him. What else? Did they tell you specific stories about the time that they sold candy in elementary school?
+Paul:  Oh, yes. Actually, that’s a good one, if people have evidence of their determination. For example the Airbnb guys, at one point they were running out of money in their startup. They’d been working on their startup for quite a while before Y-Combinator. I think maybe around a year or the bulk of a year. At one point, they were out of money, and they made their own packaged breakfast cereal with an Obama and McCain theme. You could buy either one, and we were like . . . yeah, yeah. I have a box of Obama-Os on the shelf behind me, in fact. I’ll tell you, I think they made like $30,000. They designed the box [inaudible 00:21:19].
+Andrew:  They designed it, they sold it.
+Paul:  [inaudible 00:21:22] Yeah. You know, as soon as we heard that story, they were in, basically. There’s often a point in the interview where we all kind of look at one another and decide, “Okay. We’re funding these guys.” At that point, the remainder of the interview, we’re just chatting. As soon as we heard that story it was all over. They were in.
+Andrew:  What about Kevin Hale and the Wufoo guys? They also had similar experiences, didn’t they?
+Paul:   Yeah.
+Andrew:  What drew you to them?
+Paul:  They had Particletree. They had made Particletree, and I knew Particletree. I don’t know how I knew it, but I knew about this website and I knew it was really good. So I knew they could make good things. They were not just thinking, “Oh, maybe we’ll start a startup.” And then a few months later, they’ll say, “Oh, maybe we won’t.” Right? Obviously, they had some practice doing projects together and they could work well together.
+Andrew:  I see. So maybe one of the ways . . .
+Paul:   The Wufoo guys were terribly nervous during their interview.
+Andrew:  Were they?
+Paul:  Yeah. Oh, they were so nervous. I mean, we try everything we can to make people calm during the interview. Now we have people waiting outside, talking calmly to them before the interview because we don’t want people to be flustered during the interview. Our goal is not to try and break them. If people are nervous, all it does is add noise to the interview. We need all the signal strength we can get so we want people to be calm. But the Wufoos were only our second batch. We didn’t have anything to help people be calm or we didn’t write these instructions about how to ace your interview or anything like that.
+Now there’s this thing we send to people about how to do well in the interview. So Wufoos were so nervous, and after the interview, reactions were divided about whether to fund them. And I said, “No, they’re not stupid. They were just nervous.” It’s true. That was it. They were just nervous.
+Andrew:  There’s another situation where Kevin told me that he had one vision for what he wanted to do and you had another. You said, “Oh, what you’re looking to build are forms.” And he said, “No, not forms. Forms are these ugly things that don’t make sense. Nobody wants to be in the form business.” And he said, “No, Paul Graham said this is the opportunity.” In fact, he said, I think that the guys at Y-Combinator, he didn’t just say you, but the people sitting across the table from him helped him come up with the idea.
+Paul:   In the interview?
+Andrew:  Yes.
+Paul:  It often happens that the idea for the startup gets crystallized even in that 10-minute interview. What we do in the interview, we don’t ask, “So where do you see yourself in five years?” Or, “Why are manhole covers round?” Or some crap like that. I mean, what we do in the interview is we just start doing Y-Combinator. The first 10-minutes of Y-Combinator is the 10-minutes of the interview. So if we like a group, we just start. “Okay. What about this idea? What about this? You’ve tried this.” And that’s why people come out of the interview thinking, “Oh, my god. They asked us so many questions.”
+Our goal isn’t to badger them with questions and see what happens. The goal is to figure out the startup. That’s why there are so many questions. What should the startup do? It’s a momentous question. You’re going to spend years working on this.
+Andrew:  I see. How do you know if the business idea is going to be big enough? How do you know if there’s enough money in the form business? How do you know if there’s enough of a market around Reddit, or do you even know that?
+Paul:  We don’t. We don’t know that, and we don’t worry about that, that early. We don’t care that much about the idea. I mean, it would be bad if it were an obviously terrible idea. Like, start a new search engine with no features that are any different from Google. If someone was determined to do that as their idea, we would reject it. Okay? Actually, they’d be stupid. We should reject them. But unless it’s an obviously terrible idea, it’s not the idea that’s important. At this stage, we care about the founders. We’re going to have three months to figure out the perfect [inaudible 00:25:26] to the idea.
+Andrew:  Okay. Did you, by the way, get into search? I think you did. One of your startups was going to get into search, or . . .
+Paul:  It’s okay if people are doing a search that’s not exactly the same thing as Google. So for example, Octopart does electronic parts search. Those guys are really good, so that’s search. There’s a startup in the current batch that hasn’t launched yet, or at least hasn’t outed themselves, what I see as doing search. But again, that’s a specific vertical. That’s okay. That’s fine.
+Andrew:  Okay. Yeah, and web . . . I never know how to pronounce them, even though I use this.
+Paul:   WebMynd.
+Andrew:  WebMynd, that’s how you pronounce them? Web M-Y-N-D, of course. WebMynd.
+Paul:  They don’t do search themselves. Well, they do sort of do search. Yeah, they put search over on the right-hand side of Google Search.
+Andrew:  Yeah, they enhance Google Search.
+Paul:   Yeah, yeah. Okay, so they do search.
+Andrew:  Okay.
+Paul:  That’s funny, I thought of them as this plug-in for Google, but they do actually have to do some amount of search to make that work.
+Andrew:  Okay. I don’t want to stay too much on Wufoo, but I know them best because I’ve used them for years. So let’s continue there. You decided to back them. Did you have, at the time, an idea for an exit, or did you say, “This is an interesting . . . ”
+Paul:   No.
+Andrew:  No. What was your thinking in the future, here?
+Paul:  [inaudible 00:26:40] take care of themselves. It’s so impossible to predict something like that. You know, the founders themselves don’t know. I mean, think of all the stories about . . . like Larry and Sergey. They founded this company and it’s worth something like $200 billion. I don’t know what Google’s market cap is, but it’s gigantic. When they first started out, they were walking around to the existing search engines, trying to sell the technology to them for a couple million. So if the founders themselves can be off by many orders of magnitude about the exit, it’s stupid to even think about it. You just want to fund people who are good, and some of them will go public, and some of them will just explode on the starting line, and there’s not much you can do about it.
+Andrew:  Okay. So then they went through the program, they had a product at the end. And then you and Paul Buchheit invested in them. At that point, did you say, “Now I see an exit for myself. Now I see that these guys can go public or be sold”? Is it important there?
+Paul:  No, [inaudible 00:27:42]. Even then you can’t predict exits. They really are genuinely unpredictable. It’s better just to not think about it.
+Andrew:  To just say, “This is a good business, I see it growing. I’ll support them.”
+Paul:  Yeah, these guys are good. If they have some kind of exit at some point in the future, it’ll be good for them. We’re all in the same boat. We have the same kind of stock. So you have to assume that if they do something that’s good for them, it’ll be good for you too.
+Andrew:  Okay. All right. So let’s suppose somebody’s listening to this, and says, “Man, Paul Graham is incredible. He can help shape an idea, he can help draw out the best in you. I don’t have Paul Graham in my neighborhood.” Or, “Maybe I’m too old to fit the criteria.” Or, “Maybe I just want to fund my business myself. How can I find somebody like Paul Graham?”
+Paul:  Well, the first two don’t matter. You don’t have Paul Graham in your neighborhood. Most of the people who do Y-Combinator don’t come from the Bay area. They come from all over. They come from all over the world. So that doesn’t matter. And the thing about age, that doesn’t matter either. We funded a bunch of people over 40. I don’t think we’ve ever funded anyone over 50, but some of the most successful startups have been funded by people over 40.
+The third thing, you’re determined to fund a company yourself, well, why? If we’re willing to give you money, why not take it. I suppose you might not like the dilution, but a lot of people think it’s a good deal. So really, you could, if you wanted to, in all those cases. But if someone wanted to find someone local to advise their startup, I guess the best thing to do would be to do what I suggested in that original talk about how to start a startup. Find somebody who’s done it themselves and that’s the person to ask.
+Andrew:  I see. A lot of people don’t have this gift. A lot of people can’t, if you bring them an idea, rattle off a solution. I watched Jason Calacanis on This Week in Startup. Some guy will call up with an idea and he’ll kind of bat the idea back and forth with them and brainstorm until there’s something that’s fundable there. I don’t know a lot of people who can do that. How do you find those people?
+Paul:   You know, I don’t know. I don’t know.
+Andrew:  How important do you think it is to have that [inaudible 00:29:52]?   Paul:  Well, it’s very important. If that’s what you’re looking for from the guy. If your idea is not already perfect, if your idea is perfect, then any startup founder can tell you, “Okay. Here’s how to approach VCs. Here’s the right point to hire people. Here’s what not to do.” But if you still need to work on the idea, then you need to find somebody who can lunge ideas and I don’t know. I don’t know actually how you could recognize people like that because there are probably a lot of people who can do it badly. And, as a founder, how could you tell the difference between someone who did it well and did it badly. You can’t. So I don’t know. I don’t know. Why do I come here?
+Andrew:  Here’s something that I noticed about you from your writing. You seem to be looking for a formula for success in entrepreneurship that you’ll try to list all the reasons why companies fail and then hopefully at the end you’ll be left with reasons that they succeed, or you’ll try to figure out what it specifically takes. Am I reading it right?
+Paul:  Well, whenever you’re writing an essay, you don’t want to just do a lot of hand-waving and never get to the point. My goal in writing any essay is to make the strongest statement that you can make without being false.
+So whenever I’m writing anything, I’m trying to think, “All right. What do I tell people here? How do you get to the heart of the matter?” So it’s not just in the essays about startups. Everything I write, I’m trying to figure out what the heart of the matter is, otherwise, it’s useless.
+Andrew:  And are you also trying to find formulas? Is there a formula here that people could apply? Could say, “Look, this is a guy who has now worked with 177 startups.” Did I get that right, or 172?
+Paul:   One hundred and seventy-two.
+Andrew:  One hundred and seventy-two. Let me make that clear on my paper. “He probably knows the formula at this point, or if he doesn’t, when he hits 372 he’ll have the formula.” Do you agree at that point, there will be one?
+Paul:  No, no. There is not a formula, like an itemized list of stuff we could suggest to people, “Do this, do that.” Startups vary.
+But there are definitely some patterns. There are some things that work and some things that if you do them, they’re going to hose you. So launching pretty fast almost always works. Being highly engaged with your customers almost always works. Sitting around spending a long time noodling on the idea is almost always a mistake. It’s like a form of procrastination that you can convince yourself is work.
+Andrew:  I see. Okay, all right. Let’s take a look at some of the questions that people have put up on Hacker News. Max Cline has asked me about your personality. I’ve noticed it here too. Are you always this calm? Do you lose it?
+Paul:  No, I’m not always this calm. But I saw that question too and he asked if I threw chairs. No, I definitely don’t throw chairs. If I’m really mad, I’ll just sort of talk coldly to someone. Like this.
+Andrew:  I see. I’ve heard people . . . here’s the thing. A lot of entrepreneurs are now studying you for years. They’re in this community. You’re the leader of this Hacker News community of entrepreneurs who are developers. If you don’t like their ideas or disapprove of their progress, or if they perceive that either of those are true, they’re hurt. I’ve talked to a few people who felt that way. What are you noticing?
+Paul:  Did it help when I disapproved? Did it seem like a wake-up call, or did it merely depress them?
+Andrew:  I don’t know. I know that . . .
+Paul:  Well, there’s a big difference. I mean, if it’s a wake-up call, that’s good. And if it merely depresses them, then that’s bad.
+Andrew:  Well, I don’t know that I can make sweeping generalizations. I haven’t had that many conversations like that.
+Paul:   Well, when you find out, let me know. I’m trying to get better at this.
+Andrew:  You are? Are you actively trying to get better at the way that you communicate with them?
+Paul:   Oh, yes.
+Andrew:  How? What have you done that helps you communicate with them better? How do you bring out the best in people?
+Paul:  Well, one thing I’ve been trying to figure out is how to tell which people to keep nagging and which people to give up on. Because there are some people when basically we made a mistake. There’s always going to be some, we get to demo day, and we know they’re not going to raise money, and they probably know they’re not going to raise money, and they’re going to go back and get jobs.
+There’s always some percentage that are just doomed. So the ones that are doomed, it’s just tormenting them for me to keep nagging them and encouraging them. Because they’re not going to make it. Whereas there are others who are on the borderline, who might fail and might succeed, and then if I nag them and nag them and nag them, I can maybe push them over the threshold. So it’s one of these situations where right on this threshold you have two extremes of what you want to do. The guys who are just good enough, you want to nag enormously, and the ones who are not going to be good enough you want to nag not at all. It’s not a continuous function. There’s a step there and so it’s kind of hard to optimize. But I spend some time thinking about that.
+We spend time thinking about all aspects of how to make Y-Combinator better, not just how to give people advice, but how to pick startups, how to match them up with investors. It’s all new. Most of the stuff we’re doing is stuff people haven’t done in exactly that form before. So we can’t help thinking about how to try to do it better, how to try to do it better because we’re so bad at it.
+Andrew:  Really?
+Paul:   Really, yeah.
+Andrew:  You still consider yourself bad at it?
+Paul:   Oh, god, yes. Yes, we think of ourselves as just utterly terrible at picking startups.
+Andrew:  Why? What’s bad about the . . .
+Paul:  Because no hard choices are always wrong, that’s why. We have tons of evidence about bad we are.
+Andrew:  What do you mean? What’s your percentage of bad companies to good ones would you say?
+Paul:  At least a third are just disasters. In the venture business, generally, a lot of the investments are failures. Even a venture fund, which has a lot more at stake and spends a lot more effort on due diligence than our 10-minute interviews, even a venture fund, half the investments will be failures. So everyone in the venture business is bad. Maybe if we had more experience in the venture business, we would take this badness for granted and think, “Oh, well, actually, we’re really good if only a third of our investments are miserable failures.” But we’re not in the venture business and so it seems intolerable. We’re so often fooled.
+Andrew:  So the four of you might sit around, maybe with some entrepreneurs and try to bat around ideas about why that third didn’t work out.
+Paul:  Amongst ourselves, amongst ourselves. We talk about startups that we picked that we’re really glad we picked, and we say, “How do we recognize more people like that?” There are startups we were fooled by, and we think, “How do we stop being fooled in the future?” You know? We learned a lot from interviewing Wufoo. We learned how to tell the difference between people who are nervous and people who are lame. And we were figuring that out in that interview. So we get better from practice.
+Andrew:  Okay. What about the bad ones? What have you noticed that is disastrous? What kind of people?
+Paul:   Wimps.
+Andrew:  Wimps.
+Paul:   Yeah, it takes a [inaudible 00:37:02].
+Andrew:  What’s a wimp look like?
+Paul:  They have a certain body language. You should really ask Jessica. Jessica is the expert at telling when people are going to wimp out. She’s so much more sensitive to this. She has a much more natural ability. When we were writing code in college, she was judging people’s characters. So both by nature and training, she’s so much better than I am. If I want to know if someone’s a wimp, basically, the high bit is ask Jessica. She’s the one who will tell you.
+Andrew:  I do have to have her here on Mixergy. I don’t know if you know, back when I had a bookcase behind me for I guess the first year of doing these interviews, I often put her book behind me, “Founders at Work,” knowing that if somebody saw my interview and recognized “Founders at Work,” even though the cover was a little blurry, and it was hidden behind . . . well, it wasn’t hidden. It was out there, but it was a little hard to see. If they recognized it, and they loved it, then they’re the kind of people I want in my tribe here in Mixergy.
+Paul:  Yeah, same with us. Actually, that book was . . . I mean, the way she chose who to interview for that book was who we ourselves wanted to hear the stories of.
+Andrew:  How did that factor into Y-Combinator, the book itself?
+Paul:    She was working on “Founders at Work” before we started Y-Combinator. The book came before Y-Combinator, and it was part of the reason we started it. That was one of the reasons I was thinking about startups so much because, for a long time, I didn’t think that much about startups. I was working at programming languages and then spam filters. But I was talking to her about it for that.
+Andrew:  I see, so she was telling you what she saw. What was it about that that inspired you to look into startups? What was it about the stories that she was collecting?
+Paul:  It wasn’t so much the specific stories. She hadn’t done a lot of interviews yet, but she was sort of thinking about this book when we were talking about whom she might go and interview. So we were just talking a lot about what startups are really like. And she didn’t know what startups were really like. For example, one of the big mistakes that people make about startups, people out in the regular world, and even founders, to some extent, they think it starts because there’s some brilliant idea, and success is fore-destined. I told her, “No, the idea changes a lot. People start out, they’re not even sure they want to start a company.”
+Google is the perfect example of this. So I would tell her what things were actually like in the startup world, and she was shocked. And yet she had worked for this investment bank that thought of itself as being involved in technology companies and no one in the company had a clue what startups were really like. So she was just astonished to hear all these stories from us and other startups founders who knew about what things were really like.
+Andrew:  Is that how you met? Well, no, she didn’t come to . . . you met her before she even wrote the book.
+Paul:   Oh, yeah. I think we’d been dating for over a year before YC got started.
+Andrew:  Okay. I’m going to go to another question from Max Cline. He asks a lot of interesting questions here. Saying, “If Y-Combinator company becomes a lifestyle company, can you guys still profit from the business, or do you need a [inaudible 00:40:20]?
+Paul:  No. I mean, there’s got to be an exit for equity holders to get any money. I mean, maybe in the future there’s some model where companies pay dividends instead of an exit, but we’ve never tried to get anybody to do that. We don’t have any real hopes about it, so no.
+Andrew:  Okay. So you’re thinking when you’re investing, you’d like to be able to sell out the company, you’re personally invested [inaudible 00:40:49] or go public.
+Paul:  There’s got to be some sort of liquidity and getting bought and going public are the two big forms of liquidity now. Although, there’s evolution in this world. Look at Facebook. Facebook stock is now liquid. And they’ve neither been bought or got public. So who knows what will happen in the future. In that effect, there’s no difference from us and anybody else doing venture investing. The only way to get any money out of this startup is some form of liquidity.
+Andrew:  I see. Why the name Y-Combinator?
+Paul:  It’s a trick in the lambda calculus. It’s a programming trick. I realized later that it was related to what we do, that the Y-Combinator is sort of self-referential in the way that Y-Combinator is. But, initially, I wanted to call it Y-Combinator just because I thought the Y-Combinator was a really cool thing. So it would be the perfect name for picking out the kind of people that we wanted. Hackers would look at this and think, “That’s so cool. They’re named after the Y-Combinator. There must be something going on here.” And suits would look at it and think, “Y-Combinator, what’s that?” That was what we wanted. We wanted hackers to notice us, and suits, we didn’t care.
+Andrew:  I see. And apparently it’s working. Well, I noticed you guys, but I didn’t know what the meaning was. Actually, I got to be honest. I still don’t understand it. I even saw it in Wikipedia before I did this interview. I probably would be the wrong person for you guys to back, then. I’m sure of that.
+Paul:  No, the Y-Combinator is notoriously one of the most contorted ideas in computer science. It’s the kind of thing you wouldn’t even think that something like this would be possible. I, myself, I can’t sit down and write out the Y-Combinator for you in lambda calculus. I have to look it up too. It’s not the kind of thing you actually use day to day in programming very much. It’s more of mathematical interest than practical interest.
+Andrew:  Okay. All right, what about this? All the companies that you guys back, within three months you’re able to get this beautiful user experience. I always know instantly what they’re about. I always can navigate them quickly, and they look beautiful, so beautiful that I’d be proud to show them as my own website if I own them. Within three months, you’re able to do that. How do you do that? How do you get that user experience?
+Paul:  I mean, I nag them. Some of them are great already. But the ones that aren’t great, I nag. I say, “Look, people showing up at some website, they don’t care about it as much as you, the founders, care about it. What you care about with most web apps is the person who shows up randomly. You don’t care about the person who’s already signed up for your service. They’re already sold. All they need is a little login button up in the right-hand corner. So what you care about is the person who randomly clicks on your website and has their finger poised over the back button.” Just think how many websites you visit every day, and most of them are no good. You just click on back, and you go on with your life.
+So you’re designing your website for the guy who’s just about to leave, he’s just on the cusp of even caring what you do. You know what your website does, but he doesn’t and he doesn’t even care that much. So you have to tell him. You have to say, “This website is about such and such,” right? And you have to tell him what’s he’s supposed to do there. The button we want you to click on is this big red one, in the upper left-hand corner. That’s what we want you to do. So at least he knows what he’s supposed to do. You know, I don’t want to click on it, or I do, but the thing that kills you is ambivalence, where he goes, “I don’t even know what this website is about.”
+How many times have you clicked on some link to some website and you think, “What is this startup even for?” You know?
+Andrew:  But there’s the curse of knowledge, as I think they said in the book “Made to Stick” that you’ve worked so hard on the site, you understand everything about it. To try to simplify it for somebody who’s brand-new is really hard there. And then to do it all in such a short period of time, to figure out design, is tough.
+Paul:   [inaudible 00:45:02]
+Andrew:  Do you guys have somebody on board who does that? Sorry.
+Paul:  No. It’s just like writing an essay. You have this big, complicated situation. You need to boil it down to its essentials. So I just look at the startup, and I think if I were writing something about it, how would I describe it. This is the essential thing. This is what they should say. We don’t have a graphic designer on staff, although we’ve been thinking of it. We have a lawyer now. We have a lawyer on retainer, who fixes the startup’s ordinary, everyday legal problems. That turns out to be huge. That is great. That has saved so much money and trouble. So we’re thinking of getting a graphic designer on retainer too, but we just haven’t got around to it yet.
+Andrew:  I notice that you have legal documents and you have had for a long time available to entrepreneurs documents that they can use for investors, and documents, I guess, that they use along that process. What about a set of documents for entrepreneurs who are just starting to team up, where they can help spread the ownership of the company properly, where they can ensure that they each own the IP.
+Paul:   We have that.
+Andrew:  You do have that [inaudible 00:46:04]
+Paul:  [inaudible 00:46:05] paperwork online. I mean, maybe it isn’t. But I thought it was, I think it is. Yeah, I think it is.
+Andrew:  Okay. So [inaudible 00:46:11].
+Paul:   [inaudible 00:46:12] for starting a company, in the Series AA documents.
+Andrew:  I’m sorry. We just lost the connection for a little bit. So if I and this guy Wallflower on Hacker News decided to partner up because we like the way we’ve exchanged ideas here in the comments, we can go to Y-Combinator, get a legal document that we can use to split up ownership of the business, and then start working?
+Paul:   I think so. I think so.
+Andrew:  I’ll have to look, and if somebody in the chatroom knows, I’d love to see what you guys think of that. I’d love to see if you can find it, and maybe link us to it.
+Paul:  Go to Google and search for Series AA Y-Combinator. That’s what it’s called. Series AA.
+Andrew:  [inaudible 99:46:49]
+Paul:   Yeah, I think so.
+Andrew:  How do you find a partner? If you’re just working on your own, and you’re looking for somebody to team up with, how do you find that person?
+Paul:  You should work together with them. The two biggest ways people find co-founders is to go to school with them or to work with them at the same company because you don’t really know what someone’s going to be like until you’ve worked with them on stuff. They might seem smart, but they’ll turn out to be flakes or something like that. So what I would tell people, I think having a co-founder is very important. We’ve seen tons of evidence of this. We do fund some number of single-founder startups and they do worse than startups in multiple founders.
+There’s a lot of empirical evidence too. If you look at all the startups, all the technology companies that are most successful, very few of them have single founders. Even companies that seem now like they have one guy, like Oracle, initially they had more than one founder. He just came to the fore. Same with Microsoft, or Apple. Initially, you need a couple guys to spread the load over.
+So having a co-founder is very important and so what I would do is if you don’t have a co-founder, find a co-founder because not having a co-founder is going to kill you. That’s the part that’s going to kill you. So fix the part that’s going to kill you. Spend six months trying to find somebody that you can work with and then do the startup, instead of rushing into it unprepared.
+Andrew:  I see. So find somebody who you can maybe work with on a small project, maybe on Hacker News, maybe at a bar camp or some other event.
+Paul:  The project you work with does not have to be the startup. It’s just as well if it isn’t because then you don’t have to figure out how who’s in charge of what, and how to split the intellectual property, and what to work on. Just work together with them on some open source projects for a couple months and then you’ll know if they’re good.
+Andrew:  All right. Let’s talk about Hacker News. Why did you launch Hacker News?
+Paul:  Well, originally, I just wanted some kind of application to test this new programming language, Arc, on. If you’re going to write a programming language, you ought to write some kind of application in it to make sure it’s actually good for writing programs. So I wanted to write some kind of program in it and I had tried to convince the Reddits to create a sub-Reddit for startups. They were taking forever to make up their mind about what was the right way to implement sub-Reddits. They took a long time to figure out how to do sub-Reddits. They had [Inaudible 00:49:20] sub-Reddit first and that was a one-off. But general purpose sub-Reddits, where you could create about any topic, was much later.
+Eventually, this combination of desire to write some kind of application in Arc and be getting tired waiting for the Reddits to make a startup sub-Reddit made me decide I would start a website about startup news. And that’s what Hacker News was originally called. It was originally called Startup News. But after six months, we changed it to Hacker News because we got sick of reading about nothing but startup stuff.
+Andrew:  Was it to find news stories for yourself, or did you have a vision for what this community would do?
+Paul:  Well, we already had a whole bunch of YC founders at that point. We probably had 150, 200 founders. So we had this community of people who were interested in the same stories and they were the original users of startup news. It was like a news aggregator for those 200 people.
+Andrew:  I see. Okay. And who’s managing it now? Who’s deciding what stories get killed? Who’s the person behind . . .
+Paul:  Me, me. There are a bunch of editors, but I spend . . . it’s shocking. Probably one of the biggest surprises in my life is how much time gets sucked up by Hacker News. There’s just so much crap. There’s enormous amounts of spam, there’s like 1001 varieties of semi-trolls, some of them well-meaning, some of them just crazy. God, they suck up a lot of time. The whole site just sucks up a lot of time. I try to automate as much as I can, but it’s not that automatable.
+Andrew:  Is there a payoff in that, I mean in all the work that you’re spending there?
+Paul:  Well, it’s a great source of people applying to Y-Combinator, I think. I never tried to track it. But it means huge numbers of hackers spend every day looking at this little orange Y in the left-hand corner. That can’t be bad. At least they know about us. At least people know about us. So I think it’s good, but I’ve never actually tried to measure whether it’s good. It’s more like it just got started, and I got stuck into working on it, and now I spend too much time on it, but what am I going to do, shut it down? I don’t really make any conscious decisions about it.
+Andrew:  Who are the other editors?
+Paul:  YC founders. I think there are around 30 of them. They’re all people I know and trust, and they have good judgment and care about the site. But I’m not even sure, actually, who they are. I’m not sure which people are editors. There’s something I can go and look at and see who the editors are, but I don’t know.
+Andrew:  Okay. And if there’s somebody who’s stories automatically get killed, or specific sites that are automatically killed, that’s probably you saying, “No, I don’t want this as part of my community.”
+Paul:  Sites getting killed, anyone can do. Actually, anyone can ban a user too. But usually most of the people who get banned, unless they’re obvious spammers or trolls, like really egregious trolls who are obviously just think of themselves as trolls. Editors will ban them.
+Andrew:  Okay, okay. Can you say why certain sites get banned, even if they are in the hacker space, or in the news space? Are there certain things that you just don’t want, certain kinds of stories that don’t fit?
+Paul:  Well, most of the sites, the huge majority of the sites that are banned are just spammers. I don’t think there are an awful lot of sites that are banned that are related to the stuff that gets talked about on Hacker News. We wouldn’t ban a site unless it was . . . I think cracked.com was banned, for example because it’s crap. It’s deliberately created with fluff. I just doubt there’s anything interesting on there that would engage some intellectual curiosity. But that’s the kind of site that’s not a spammer site that’s actually banned. I’m not sure, though. It might not be banned. I’m not sure.
+Andrew:  Okay. All right. Finally, let me start asking you a little bit about my work, here. I love the community that you built there, that you built on Hacker News and around Y-Combinator and the influence it’s had on this whole space. I feel like who do I want to reach, who do I really . . . I don’t want to get a huge audience, I want to get the right audience. I’m looking at the people who care about your work and I’m saying, “They, to me, are the right audience.” How can I serve that audience well, Paul, with my interviews?
+Paul:  Well, it seems like you are. Hacker news, from what you say, it sounds like Hacker News is identical with your audience. And you seem to be pretty popular on Hacker News so it seems like you’re doing fine. I don’t think there’s anything you have to change dramatically.
+Andrew:  I have your kind of curiosity, though, about what it takes to build a successful company, and what the entrepreneurs are thinking of, and who they are. Do you have a sense of what you’d like to see, or how to bring that out of entrepreneurs?
+Paul:  Well, you want to ask different questions than news reporters generally ask. There are all these traditions in the news business that people now take for granted of asking sort of shallow questions that create controversy. For example, a sort of classic, old-fashioned, dumb-ass reporter, if they were interviewing Larry and Sergey, they would say, “So, Larry. What about China?” Right? I’m like, who gives a fuck about China? It’s just some political controversy. There’s nothing intellectually deep about it.
+What I care about is things like when did they make the architectural decision to make their search engine work on a whole bunch of crappy, cheap computers? That’s important. That’s not current events, and it doesn’t generate a lot of controversy in sort of cheap, short-term interest. So I would say the way to serve this audience, I mean, this is the kind of audience that doesn’t go for that kind of crap, mostly, unless there are people there that I would rather not have there. But be deep. Ask the questions that matter, instead of the kind that merely illicit controversy. It seems like you’re pretty good at that.
+Andrew:  I’m trying. I do feel like those other stories get more attention.
+Paul:   In the short-term, yeah, sure. But this is a different audience.
+Andrew:  I see. Okay.
+Paul:   Ask the questions that would be helpful to someone starting a startup.
+Andrew:  Do you see somebody who does that well now, who brings out those key moments in entrepreneurs?
+Paul:   You mean an interviewer who asks . . .
+Andrew:  Yeah, an interviewer or a writer.
+Paul:  [inaudible 00:56:03] questions. Yeah, I do see someone like that fairly frequently, in fact.
+Andrew:  You know what? Does she blog? I’d like to see a chapter of the next “Founders at Work” every week on her site. I could read that all day long. I know she doesn’t have the time for it anymore.
+Paul:  [inaudible 00:56:22] do one of these interviews. It takes her more than a week to do one of these interviews.
+Andrew:  I see. I get that. I wish she had more time to be able to do that. Would you please give her the space to go do that?
+Paul:  You know, that is her deepest wish. If she is watching this, she’ll be laughing so much at this point because that’s what she would like the most too, to be able to spend more time on the new version of “Founders at Work.” She’s working on a new edition, with a bunch of new interviews.
+Andrew:  Oh, wow.
+Paul:  Yeah, the big problem in her life is that she has to spend all her time on random crap and doesn’t get to spend enough time on the book.
+Andrew:  I’m going to have to ask her.
+Paul:   That’s the problem that everyone writing a book has, incidentally.
+Andrew:  That there just isn’t enough time to do it while you’re doing everything else.
+Paul:  Yeah, that they end up having to . . . because the book doesn’t have deadlines and other things. Do you have deadlines?
+Andrew:  Yeah.
+Paul:  Like this interview, it happens at a particular time. The crap work has evolved this protective mechanism to not get ignored, called deadlines. So if you look at what most people do, instead of their great vision for their life, they spend their time doing things that have deadlines.
+Andrew:  Yeah, like email. Answer it.
+Paul:  Yeah, yeah. So one of the secrets to getting stuff done is to be able to blow off stuff, even stuff that seems important.
+Andrew:  Let’s see. Piss off some people who have imposed a deadline on you just so you can get the stuff that you really care about.
+Paul:   Yeah, you probably have to piss people off to get really hard work done.
+Andrew:  All right. Well, thank you for doing this interview with me. I’m so glad to finally get to meet you and I hope I get to meet you at some point in person too.
+Paul:   Yeah, you should drop by dinner. Send me an email.
+Andrew:  I’m still in Buenos Aires, but when I’m back in the US, I’d love to come [inaudible 00:58:0].
+Paul:   You’re in Buenos Aires?
+Andrew:  Yeah.
+Paul:   That is the Internet for you.
+Andrew:  Yeah. All right. Well, thank you. If you’re ever down here, we’ll have you over for a steak and a malbec. If not, I’ll wait till I get back to the US.
+Paul:   All right. Thank you very much. Nice to talk to you.
+Andrew:  All right, and thank you all for watching. If you have any feedback or comments, how can I become a better interviewer? Who else should I be interviewing? Please, bring it on. I always love to hear that stuff. Bye.
+Paul:   Bye.
+© Mixergy 2025
+Mixergy is a mission.
+
+			Thanks for liking this post. 
+			If you're a premium member, you can save your likes. 
+			Login or become a premium member.
+
+Plus, his bizarre strategy for getting over a fear of flying.
+Tyler and Y Combinator co-founder Paul Graham sat down at his home in the English countryside to discuss what areas of talent judgment his co-founder and wife Jessica Livingston is better at, whether young founders have gotten rarer, whether he still takes a dim view of solo founders, how to 2x ambition in the developed world, on the minute past which a Y Combinator interviewer is unlikely to change their mind, what YC learned after rejecting companies, how he got over his fear of flying, Florentine history, why almost all good artists are underrated, what’s gone wrong in art, why new homes and neighborhoods are ugly, why he wants to visit the Dark Ages, why he’s optimistic about Britain and San Fransisco, the challenges of regulating AI, whether we’re underinvesting in high-cost interruption activities, walking, soundproofing, fame, and more.
+Watch the full conversation
+
+Subscribe on Apple Podcasts, Spotify, or your favorite podcast app to be notified when a new episode releases.
+Recorded July 15th, 2023.
+Read the full transcript
+TYLER COWEN: Hello, everyone, and welcome back to Conversations with Tyler. Today I’m here with Paul Graham. Paul, welcome.
+PAUL GRAHAM: Thank you.
+COWEN: You’ve written several times that your wife, Jessica Livingstone, is a better judge of character than you are. What other areas of talent judgment is she better, or much better, than you?
+GRAHAM: Practically everything to do with people. She’s a real expert on people and social protocol — what to wear at events, what to say to someone, [laughs] anything like that.
+COWEN: But you have all this data, so why can’t you learn from the data and from her to do as well as she can? What’s the binding constraint here in limiting someone as a judge of human affairs?
+GRAHAM: Well, partly, I just don’t have as much natural ability, and partly, I just don’t care as much about these things. The conversations we have are not “Paul, you can’t wear that.” They are like, “Paul, you can’t wear that.” [laughs] I’m like, “Really? Why not? What’s wrong with this?” I just don’t care as much.
+COWEN: But say, when you’re judging talent — Sam Altman, Patrick Collison — you’re judging people, right? Of course, it’s the business plan, but much of it is the talent.
+GRAHAM: Oh, it’s all the people. The earlier you’re judging start-ups, the more you’re just judging the founders. It’s like location for real estate. The founders are like that, so yes, sure. Which is why the earlier stage you invest, the more you want to have these people who are good judges of people.
+COWEN: If she’s better than you at human affairs, comparing you to other people, what exactly, in the smallest number of dimensions, are you better at than the other people?
+GRAHAM: What am I better at?
+COWEN: Yes. What are you better at? You can’t be so terrible at this, right?
+GRAHAM: You mean to do with start-ups?
+COWEN: To do with people — how well they will do with their start-ups. What’s the exact nature of your comparative advantage?
+GRAHAM: I can tell if people know what they’re talking about when they come and talk about some idea, especially some technical idea. I can tell if they know, if they actually understand [laughs] the idea, or if they just have a reading-the-newspaper level of understanding of the thing.
+COWEN: How well can you judge determination?
+GRAHAM: Determination — it’s hard to judge by looking at the person. The way you would judge determination — because people act determined; people think they’re supposed to act determined. No one walks into their Y Combinator interview thinking, “Well, I need to seem diffident.” [laughs] Nobody thinks that. They all think they’re supposed to seem tough, which is actually really painful and stressful. It’d be better if they just were themselves because someone trying to act tough — it’s so painful to watch.
+But the way you tell determination is not so much from talking to them as from asking them stories about things that have happened to them. That’s where you can see determination.
+COWEN: It’s how they tell the story, or it’s what happened?
+GRAHAM: No, it’s what they did in the story, right?
+COWEN: What they did in the story.
+GRAHAM: Something went wrong, and instead of giving up, they persevered.
+COWEN: Why are there so few great founders in their 20s today, saying that they are —
+GRAHAM: Is that true, though? I’ve heard about that.
+COWEN: Ten, fifteen years ago, you had a large crop of people who, obviously, have become massive successes. Today, it’s less clear. Companies seem to be smaller. The important people seem to be older. Sam Altman was important early on, but now he’s very, very, very important. He’s what, 37, 38?
+GRAHAM: Something like that.
+COWEN: Seems like more of a synthetic set of abilities we need.
+GRAHAM: I’m not even sure this is true. It could be that it’s not actually true, and that there’s something else going on. If you look at athletes, for example, athletes learned how to stay good for longer. You have people who are really international quality soccer players at age 34. That didn’t used to happen back in the days of Johan Cruyff, smoking cigarettes between halves. [laughs] He didn’t last till 34. It might have seemed like all the good football players are 34, and it’s just an artifact of them lasting longer.
+COWEN: But the 20-year-old stars seem to have vanished. There’s not a next Patrick Collison, who was evidently so.
+GRAHAM: Well, Patrick Collison probably didn’t seem to most people to be the big star, and you can prove this, because if he had, they would have invested in early Stripe rounds, and they didn’t. Anybody who claims they knew early on that Patrick Collison was going to be a big star — show me the equity.
+COWEN: Okay, but there was Peter Thiel, there was Sequoia, there was yourself. A bunch of people knew, in fact, or strongly suspected.
+GRAHAM: Sure, yes. Some people did, but certainly not everyone. I don’t know if this is true. I’ll investigate this summer when we’re going to go back to YC and talk to some founders, and I’ll talk to the partners, and I’ll see what’s going on, because I had a mental note to check and see if this is actually true.
+COWEN: There’s a Paul Graham worldview in your earlier essays, where you want to look for the great hackers, and a lot of the most important companies come from intriguing side projects.
+GRAHAM: Oh, yes.
+COWEN: But if we want older people who are somewhat synthetic in their abilities, are those other principles still true?
+GRAHAM: No, not necessarily. Not as true. Part of the reason you want to find young founders who’ve done stuff from side projects is that it guarantees the idea is not bullshit. Because if young founders sit down and try to think of a start-up idea, it’s more likely to be bullshit because they don’t have any experience of the world.
+Older founders can do things like start supersonic aircraft companies, or build something for geriatric care, and actually get it right. Younger founders are likely to get things wrong if they try and do stuff like that. It’s just a heuristic. It’s a heuristic for finding matches between young founders and ideas.
+COWEN: Why is venture capital such a small part of capital markets? It’s big in tech, it’s somewhat big in biotech, but most other areas of the economy, you finance with debt or retained earnings or some other method. What determines where VC works and doesn’t work?
+GRAHAM: Well, growth. You’ve got to have high growth rates because VCs — it’s so risky investing in start-ups, investing in these early-stage companies that maybe don’t even have any revenues. The only thing that can counterbalance the fact that [laughs] half the companies completely fail is that the ones that don’t fail sometimes have astonishing returns.
+COWEN: Can you imagine a future where there’s a lot more tech in terms of the level, but slower rates of growth, and VC quite dwindles because the growth rates aren’t there? Or VC goes to some other area?
+GRAHAM: Well, VC has been dwindling in the sense that they have smaller and smaller percentages of companies. If you go back and look at the stories from the 1980s, they would do these rounds where they would get 50 percent of the company. Even when YC started, they would get 30, and now it’s down to 10 in these rounds — God knows what they’re called; they keep renaming the rounds. For a given round size, the amount of equity they get is much smaller than they used to.
+COWEN: It at least seems we have a new, dynamic Microsoft that ships products quickly and innovates and, on the surface, appears to act like a start-up again. How can that be true? We all know your famous essay about Microsoft culture. What has happened?
+GRAHAM: I did not say that they wouldn’t make money.
+COWEN: But they’ve done more than make money. They’ve impressed us with their speed.
+GRAHAM: Well, I meant something very specific in that essay. Incidentally, I talk in that essay about how I was talking to a founder, and I was talking about how Microsoft was this threat. You can see he was clearly puzzled, like, how could Microsoft possibly be threatening? I didn’t mention who the founder was, but it was actually Zuck. It was Mark Zuckerberg, [laughs] who was puzzled that Microsoft could be a threat.
+Still to this day, if you ask founders, “Are you afraid that Microsoft might do what you’re doing?” None of them are. It’s still not a threat to start-ups. Yes, it makes more money now, but it’s still not a threat like it used to be. It doesn’t matter in the sense of factoring into anyone’s plans for the future. No start-up is thinking, “Well, I better not do that because Microsoft might enter that and destroy me.”
+COWEN: In the early years of Sam Altman, what did you see in him other than determination? Because he’s not a technical guy in the sense of —
+GRAHAM: He is a technical guy. He was a CS major.
+COWEN: But you’re not buying the software he programmed, right? There’s something about what Sam Altman does that —
+GRAHAM: Well, now he’s become a manager, but he knows how to program.
+COWEN: But that’s not why his ventures have succeeded, right?
+GRAHAM: Oh, no, he does a lot more than —
+COWEN: There’s some ability to put the pieces together.
+GRAHAM: Yes, but he’s not a nontechnical guy. He’s not just some business guy. He’s a technical guy who also is very formidable, and that’s a good combination.
+COWEN: There’s a now-famous Sam tweet where he appears to repudiate his earlier advice of finding product-market fit early and then scaling, and saying, “Oh, maybe I was wrong saying that.” What OpenAI has done is not exactly that. Do you agree, disagree?
+GRAHAM: Well, maybe OpenAI is a special case because you have to have giant warehouses full of GPUs. You can’t just mess around and throw something out there [laughs] and see if it works. Maybe it requires some amount of advanced planning for something on that scale. I don’t know. I don’t know what he meant by it, and I also don’t know what it’s like inside OpenAI, really. I don’t know either.
+COWEN: Do you still take a dim view of solo founders?
+GRAHAM: Well, it’s harder. I know I wouldn’t start a start-up alone because it’s just so much weight to bear to do something like that.
+COWEN: But it’s very hard to find a partner as good as you are, right? It’s harder and it’s easier. You can just do it.
+GRAHAM: Well, people should do some work. When I talk to people who are in their teens or early 20s about starting a start-up, I tell them, “Instead of sitting around thinking of start-up ideas, you should be working with other people on projects. Then, you’ll get a start-up idea out of it that you probably never would have thought of, and you’ll get a co-founder too.” I wish people would do more of that. You can get co-founders — just work with people on projects. You just can’t get co-founders instantly. You’ve got to have some patience.
+COWEN: Why is there not more ambition in the developed world? Say we wanted to boost ambition by 2X. What’s the actual constraint? What stands in the way?
+GRAHAM: Boy, what a fabulous question. I wish you’d asked me that an hour ago, so I could have had some time to think about it between now and then.
+COWEN: [laughs] You’re clearly good at boosting ambition, so you’re pulling on some lever, right? What is it you do?
+GRAHAM: Oh, okay. How do I do it? People are, for various reasons — for multiple reasons — they’re afraid to think really big. There are multiple reasons. One, it seems overreaching. Two, it seems like it would be an awful lot of work. [laughs]
+As an outside person, I’m like an instructor in some fitness class. I can tell someone who’s already working as hard as they can, “All right, push harder.”
+[laughter]
+It doesn’t cost me any effort. Surprisingly often, as in the fitness class, they are capable of pushing harder. A lot of my secret is just being the person who doesn’t have to actually do the work that I’m suggesting they do.
+COWEN: How much of what you do is reshuffling their networks? There are people with potential. They’re in semi-average networks —
+GRAHAM: Wait. That was such an interesting question. We should talk about that some more because that really is an interesting question. Imagine how amazing it would be if all the ambitious people can be more ambitious. That really is an interesting question. There’s got to be more to it than just the fact that I don’t have to do the work.
+COWEN: I think a lot of it is reshuffling networks. You need someone who can identify who should be in a better network. You boost the total size of all networking that goes on, and you make sure those people with potential —
+GRAHAM: By reshuffling networks, you mean introducing people to one another?
+COWEN: Of course.
+GRAHAM: Yes.
+COWEN: You pull them away from their old peers, who are not good enough for them, and you bring them into new circles, which will raise their sights.
+GRAHAM: Eh, maybe. That is true. When you read autobiographies, there’s often an effect when people go to some elite university after growing up in the middle of the countryside somewhere. They suddenly become more excited because there’s a critical mass of like-minded people around. But I don’t think that’s the main thing. I mean, that is a big thing.
+COWEN: Think of it as the power of London in the 17th century. The Industrial Revolution happens further north, but the ideas, the science, in or near London, maybe Cambridge.
+GRAHAM: And Oxford.
+COWEN: Those are the networks people are brought.
+GRAHAM: Near London only in the sense that everything in England is near everything else by American standards. It’s not really that London was the center of ideas. There were a lot of smart people there, but things were more spread out. Be careful with English history there.
+Back to this idea, though, of how to get people to be more ambitious. It’s not just introducing them to other ambitious people. There is a skill to blowing up ideas, blowing up not in the sense of destroying, like making them bigger. There is a skill to it, to take an idea and say, “Okay, so here’s an idea. How could this be bigger?” There is somewhat of a skill to it.
+COWEN: It’s helping people see their ideas are bigger than they thought.
+GRAHAM: Yes. Oh, yes. We often do this in YC interviews.
+COWEN: People say you’re especially good at that. This is what the other people say.
+GRAHAM: Well, that’s why I’m mulling over what actually goes on, because there is this skill there. The weird thing about YC interviews is, in a sense, they’re a negotiation. In a negotiation, you’re always saying, “Oh, I’m not going to pay a lot for that. It’s terrible. It’s worthless.” Yet in YC interviews, the founders often walk out thinking, “Wow, our idea is a lot better than we thought,” just because of what we do.
+You know what we do in YC interviews? We basically start YC, the first 10 minutes of YC is the interview. You see what it’s like to work with people by working with them for 10 minutes, and that’s enough, it turns out.
+COWEN: So, you think the 11th minute of an interview has very low value.
+GRAHAM: I’ve thought a lot about where the cutoff is. Like, where’s the point? If you made a graph, what’s your probability of changing your mind after minute number N? After minute number one or two, the probability of changing your mind is pretty high. I would say YC interviews could actually be seven minutes instead of ten minutes, but ten minutes is already almost insultingly short, so we kept it at ten. We could have made it seven.
+COWEN: I think there’s often a threshold of two, and then another threshold at about seven, and after that, it’s very tough for it to flip.
+GRAHAM: Yes. Although that doesn’t mean you’re always right.
+COWEN: It could just be, after three hours, you would still be wrong.
+GRAHAM: It’s just not going to flip. I didn’t say seven minutes is enough to tell, notice. [laughs] I said seven minutes is the point where you’re probably not going to change your mind.
+COWEN: If it’s going somewhat badly, and the person is flipping positive at minute six, what is it that’s happening, both in the interview and in you?
+GRAHAM: If it changes from two to seven, uh —
+COWEN: Clearly, from zero to one or two, they get over nerves, or they adjust the sound volume. There are plenty of those stories.
+GRAHAM: It’s probably that we misunderstood what they’re working on initially.
+COWEN: So, great idea, bad at presenting it?
+GRAHAM: No, more like they’re near some idea that we’re familiar with, and we just assume they must be doing that idea. And they say, “Oh, no, no, no, we’re not doing that. We’re doing this.” I’m like, “Oh, okay. Thank goodness.” Then, they get extra points because not only they’re not doing the stupid thing, but they understand that the stupid thing is stupid. They get extra credit for what we were subtracting for it in the past.
+COWEN: Who falls through the cracks in the YC process, as you’ve experienced it?
+GRAHAM: Well, YC — one of the reasons I’m so contemptuous of university admissions is that I am also in the admissions business. I am obsessed. [laughs] We not only measure when we fail, but we’re obsessed with the failure cases. YC has a list of all the companies that we’ve missed, that have applied to YC and we’ve turned down, and they’ve gone on to be successful. We spend a lot of time, like someone thinking about past injuries.
+COWEN: What’s the common element, though, now that you think of it?
+GRAHAM: When there are common elements, my God, do we act quickly to fix that. I remember early on, there was this company doing email, if you wanted to send mass emails. I forget what their name was. This was back when we were reading the applications. If the first reader gave it a sufficiently low grade, it would never be seen by anybody else.
+The first reader was Robert Morris. He was designated wet blanket of YC. He gave this application a C, with the comment “spam company.”
+[laughter]
+Nobody ever saw it again. They ended up going public. After that, I changed that thing in the software that made it so that no second reader would see it. After that, every application had to be seen by at least two people.
+COWEN: How did you get over your fear of flying?
+GRAHAM: Oh, really? Did I already talk about this? Do you know the answer to this?
+COWEN: There are two or three places in your writing where you mentioned that you had a fear of flying, but you used the past tense, which implies you got over it, but you never told anyone how.
+GRAHAM: Well, it’s a bizarre strategy. I learned how to hang glide, which sounds crazy.
+COWEN: [laughs] That will do it, though, right?
+GRAHAM: If you’re afraid of flying, how could you learn how to hang glide? The answer is, you learn how to hang glide gradually. You start by just running along the flat. If there’s a headwind, maybe you feel a little lift. Then you go 10 feet up the hill, run as fast as you can, and you reach a total altitude above ground level of like a foot. You’re not afraid when you’re a foot above the ground. You go out a little further up the hill until a month later, you’re jumping off a cliff with a hang glider on your back.
+After I was good at hang gliding, I took flying lessons. There’s this intermediate point where I was totally comfortable jumping off a cliff with a hang glider on my back, moderately comfortable flying a Cessna 172 — where the instructor had just turned off the engine [laughs] and said, “Okay, land it,” because the glide ratio is actually similar to a hang glider — and still afraid of getting on an airliner.
+That shows you how irrational these things are. But when I finally did get on an airliner, my God, it was like a spaceship [laughs] compared to the planes I’d been flying. It was fabulous. It totally worked. My fear of flying was completely cured.
+COWEN: What did you learn about start-ups and talent selection from that process?
+GRAHAM: Boy, if I learned anything, I haven’t considered it until this moment.
+COWEN: But you might have learned it quite well, just not articulated it.
+GRAHAM: I don’t know. You ask me these hard questions. I don’t have time to think about them. I don’t think I’ve ever consciously used anything I learned there. It was certainly convenient to be able to —
+COWEN: Do you see founders who go through a comparable process with something other than flying, and it’s like, “Oh, I get where you’re at, and here’s what you need to do next.”
+GRAHAM: Yes, a lot of technical-type founders hate the idea of doing sales and going and talking to people, and so you can tell them, “Look, just go do this.” You know, after a few months, they’ll be used to it. They may never like it. I would hate doing that myself now, but they can at least do it.
+COWEN: Were the Medici good venture capitalists, or do you give greater credit to the Florentine guilds?
+GRAHAM: I have no idea. I need to learn more about the —
+COWEN: The guilds would run competitions. The Medici would just pick the people they liked. They both have good records in different ways, but obviously, they’re competing models.
+GRAHAM: You’re an economist. You’ve read books about this stuff. I don’t know. What do I know about the Medici? [laughs]
+COWEN: I think the Medici were overrated, and the guilds were more important, but that’s a debatable view. You could argue it either way.
+GRAHAM: They could well be overrated. They were the ones who had all the publicity. I have no idea.
+COWEN: Your time spent at RISD and in Florence — how did it alter or affect your thoughts on software design and talent selection?
+GRAHAM: Man, if you asked how it affected my ideas about painting, I can give you an answer.
+COWEN: We’ll get to that, but Florence was all about talent selection because how many people in quite a small area became both great and famous?
+GRAHAM: One thing I remember — there was one moment I was sitting in Florence, and I realized I had gone to the wrong place. Because I was studying Florentine history, all the buildings are right around you, and I found myself thinking, “Damn, Florence was New York City [laughs] in 1450.”
+COWEN: That was 60,000 people, yes.
+GRAHAM: That’s why it was good at art. It wasn’t some weird Florentine thing about art or some special Florentine sense of aesthetics. They were just the most progressive city. It’s really too bad that the far left has hijacked that word. It’s such a good word. Maybe we can get it back.
+[laughter]
+GRAHAM: I remember thinking, “I’ve gone to the wrong place.” I went to the place where the puck used to be over hundreds of years ago. [laughs]
+COWEN: You can learn a lot from studying where the puck used to be.
+GRAHAM: Oh, not really.
+COWEN: Are you sure?
+GRAHAM: The Academia was a pretty crappy art school.
+COWEN: Being in Florence itself had —
+GRAHAM: Oh, I can learn a lot from looking at the works, but I don’t have to go and live there.
+COWEN: What is it you learned that was relevant for Y Combinator? Because you’re doing something comparable to what the Florentines did: picking a pretty small area, making it the absolute center for talent selection, a magnet that drew people in, and having a lot of winners. You copied what you were living.
+GRAHAM: I had already learned that from Harvard.
+COWEN: Maybe you had to learn it twice. [laughs]
+GRAHAM: No, no, no. I was already very well aware of this phenomenon, to the extent YC uses anything like that. We were definitely thinking. YC was started within the convex hull of Harvard, [laughs] like the places Harvard spread out through Cambridge, but YC’s original office was within it. We’ve consciously tried to make YC the Harvard of start-ups. No question about that. We had the model right there.
+COWEN: Harvard’s very screwed up, as you know. You look at their admissions — how much is dean’s favorites and legacies and affirmative action? It’s not Y Combinator. They’re trying to build a coalition, and you’re just caring about picking winners.
+GRAHAM: The thing is, though, all universities have an admissions process that’s corrupt in that way, except possibly Caltech. Caltech might actually do undergrad admissions properly. So, since they’re all messed up, Harvard does still have this draw compared to the others.
+COWEN: Does AI make programming even more like painting?
+GRAHAM: God, what a question. How do you make these questions? Does AI make programming more like painting? I have no reason to believe that. [laughs] It might be true.
+COWEN: You’re piecing things together more, arguably, in this new post-GPT world.
+GRAHAM: Well, what I was seeing when I said programming was like painting is that they’re both building something. You’re not building something any more with AI than when you were writing code by hand, so I would guess not.
+COWEN: How far is Midjourney from “real art”?
+GRAHAM: I don’t know.
+COWEN: Is it more decrepit modernism? Is it a fantastic revolution? Or, as art — put aside the start-up angle — how do you view it?
+GRAHAM: Well, I see all these AI-generated images, and I don’t know which ones are from Midjourney and which ones aren’t. I can’t say for sure about Midjourney, but I have definitely seen some AI-generated stuff that looks amazing, that looks truly impressive.
+COWEN: As art. Not just that it looks impressive. It’s amazing as graphic design, but do you think it’s art in the same way that Rembrandt is art?
+GRAHAM: This whole thing about what’s art and what isn’t? I think it’s all a matter of degree. My crap carnation coffee mug is art. It’s just not very good art. [laughs] There’s not some threshold, where above this threshold it’s art. Everything people make is art, just to varying degrees of goodness. I can tell you, some of the things I’ve seen that were AI-generated, I’d be impressed if a person made them. That probably is over your threshold.
+COWEN: If you’re good at talent selection, who is an underrated painter and why?
+GRAHAM: Ah, wow. [laughs] Boy, there is a topic I think about a lot. There’s a bunch of different reasons people can be underrated. Almost all good artists are underrated.
+COWEN: I agree.
+GRAHAM: It sounds weird, but if you look at where the money’s spent at auction, it’s almost all fashionable contemporary crap because if you think about how prices in very high-end art are set, they’re auction prices. How many people does it take to generate an auction price? Two. Just two. So, you have boneheaded Russians who want to have a Picasso on their wall so people will think they’re legit, or hedge fund managers’ wives who’ve been told to buy impressive art to hang in their loft so when people come over, they’ll say, “Oh, look, they’ve got a Damien Hirst.”
+The way art prices at the very high end are set is almost entirely by deeply bogus people, [laughs] which is great, actually. When I was an artist, I used to be annoyed by this. Now that I buy a lot of art at auction, I’m delighted because it means there’s all this money. You see Andy Warhol’s screen prints selling for $90 million.
+COWEN: Yes. Old masters can be, I wouldn’t say cheap, but I would say radically underpriced.
+GRAHAM: A couple hundred thousand.
+COWEN: Or even less for some good ones.
+GRAHAM: Yes, I know because I buy them. [laughs] I used to be annoyed by this, and now I think it’s the most delightful thing in the world because there’s all this loose money sloshing around, and so-called contemporary art is like this sponge that just absorbs all of it. There’s none left. Some of the things I buy, I am the only bidder. I get it for the reserve price. No one else in the world wants it, or even knows that it’s being sold, so I am delighted about this.
+The answer to your question, which artists are undervalued? Essentially, all good artists. The very, very, very famous artists, artists famous enough for Saudis to have heard of them — Leonardo, I would say, is probably not undervalued. But except for the artists who are household names — every elementary school student knows their names — they’re all undervalued.
+COWEN: If you think that something has gone wrong in the history of art, and you tried to explain that in as few dimensions as possible, what’s your account of what went wrong?
+GRAHAM: Oh, I can explain this very briefly. Brand and craft became divorced. It used to be that the best artists were the best craftspeople. Once art started to be reproduced in newspapers and magazines and things like that, you could create a brand that wasn’t based on quality.
+COWEN: So, you think it’s mass media causing the divorce between brand and craft?
+GRAHAM: It certainly helps.
+COWEN: Then talent’s responding accordingly. Fundamentally, what went wrong?
+GRAHAM: You invent some shtick, right?
+COWEN: Right.
+GRAHAM: And then — technically, it’s called a signature style — you paint with this special shtick. If someone can get some ball rolling, some speculative ball rolling, which dealers specialize in, then someone buys the painting with your shtick and hangs it on the wall in their loft in Tribeca. And people come in and say, “Oh, my goodness, that’s a so and so,” which they recognize because they’ve seen this shtick. [laughs]
+COWEN: Say, if we have modernism raging in the 1920s, and the ’20s mass media is radio for the most part —
+GRAHAM: No, no, no, newspapers were huge. Modernism was well —
+COWEN: But not for showing paintings, right? There’s no color in the papers. You had to be —
+GRAHAM: Well, the 1920s were good enough to make painting like Cezanne fashionable. It was just about getting going in the 1920s.
+COWEN: Why can’t we build good British country homes anymore?
+GRAHAM: [laughs]
+COWEN: Or do you think we can?
+GRAHAM: Well, there’s nothing stopping you —
+COWEN: But it doesn’t happen, right?
+GRAHAM: — except the planning people. Do you know anything about building houses in England? You just cannot build.
+COWEN: It’s impossibly difficult. It’s one of the worst countries, right?
+GRAHAM: Well, it’s the reason it looks so nice here.
+COWEN: Yes.
+GRAHAM: If they had America’s zoning rules here, the entire countryside would be plastered with houses. You wouldn’t have any fields left at all because the difference in value between agricultural and building land — it’s like, God, 100X or something like that, and this place is small.
+COWEN: Yes, but there are new buildings, say, in Cambridge, many other parts of Britain, and the new buildings are not country homes. Yet everyone, on average, is wealthier. Why the change?
+GRAHAM: Wealthier than where?
+COWEN: Wealthier than Britain in the old days. Even before the railway, you have large numbers of country homes, and most country homes being built when living standards were pathetically low.
+GRAHAM: A country house has got to have a certain amount of land around it. You can’t just have them plastered down a street. It would look wrong. You want a different style of architecture or something like that. There is a place where they build big houses.
+You know what it is? It’s like when the Macintosh appeared, and you could have whatever font you wanted, right? Most people have bad tastes. In the old days, you had to have a classical-looking house because that was the only way to build houses. In the Victorian period, actually, was when things went wrong. You could have an Italian villa, or wait, no, it could be a Greek temple, or [laughs] something that looked like it was from the Tudor period. Take your pick and mix them together, Greek temple with Tudor bits. It was all over from that point on, really.
+It’s not like they build good houses in America either.
+COWEN: No, neighborhoods are worse yet. There are nice individual homes, but is there any truly beautiful neighborhood built after 1950? Where would it be? In any country, put aside Asia?
+GRAHAM: No, in Palo Alto, there are neighborhoods of houses built by this guy called Eichler, this developer who hired some of the best midcentury architects. And arguably, those neighborhoods are good, although they messed up the trees.
+COWEN: When were those built?
+GRAHAM: ’50s and ’60s.
+COWEN: Okay, but that’s 70 years ago. Now, I mean, we haven’t done anything in 70 years? What’s your model of that?
+GRAHAM: I’m sure someone is building some good houses somewhere. The point is, you don’t really need to, and so it only happens by accident. The developers mostly are thinking, “We need to just turn this land into houses as soon as possible. The buyers don’t have any taste. We don’t need to sweat that, so we’ll just build random houses that look big and have large master bedrooms. People will buy them. We’ll get our capital back and go on and do the next one.”
+They don’t need to be good. Houses don’t need to be good. They didn’t need to be beautiful in the old days, either. It was just technology was so constrained, you didn’t have any choice.
+COWEN: You get to go back in time. Your health is guaranteed, and you know whichever languages you might need, and you spend six months somewhere safe. Your safety is guaranteed. Where do you choose?
+GRAHAM: I often think about this question.
+COWEN: You seem like someone who often thinks about this question.
+GRAHAM: Yes, sadly, the way I think about it is, I keep trying to escape from the obvious answer, and I don’t manage to, because the obvious answer to that is Athens, right? Which is, that’s where everyone would pick.
+COWEN: It’s not what I would pick, but what’s your choice number two, then? I’ll tell you mine, I think.
+GRAHAM: Well, there are things where I am obsessed with the mystery of what the hell was going on in Dark Age Europe. I’m deliberately using the term “Dark Age” because they’re trying to outlaw it. [laughs]
+COWEN: It’s correct, I think.
+GRAHAM: If the term “Dark Ages” hadn’t been invented already, that would be a fabulous invention to describe that period. Yes, sure, new things were getting invented. Some people were doing good things just like always happens. But it was as bad as things have been. There are so few records, nobody knows how things happened.
+I would be really interested to know when barbarians infilled the Roman Empire, but there were still big Roman landholders, and they had to give a large percentage of their estates to these new barbarians, who were in a sense running things. They were in the cockpit, but they didn’t know what the buttons did.
+COWEN: You want to go to Northumbria or northern France? Or where do you want to be?
+GRAHAM: No, no.
+COWEN: Dark Ages — you’ve picked the era, now give us the spot.
+GRAHAM: Like Provence.
+COWEN: Provence?
+GRAHAM: Provence in 600. What was going on? What was going on in Provence in 600? I would be very interested to see that. Almost like morbid curiosity. I wouldn’t learn as much as I would in going to Athens, [laughs] but I just really want to know what was going on.
+COWEN: I’m a big fan of morbid curiosity, by the way. It’s the best kind of curiosity, in many cases.
+GRAHAM: I can tell.
+COWEN: I would pick the Aztec Empire before the Spanish arrived. I feel I have vague glimpses of what ancient Athens was like. There are still Greek ruins. The Europeans marveled at the cities they saw, and they burnt all the books, and I think I would learn more by somewhere more strange.
+GRAHAM: Maybe, maybe. The reason I’m interested in medieval Europe is, it’s where our world came from — the clocks we use, the writing system, all the clothes eventually evolved from that. The reason I’m interested — I long ago realized that the medieval period wasn’t a dip. It wasn’t like there was this high level of civilization, and then it dropped down for a while, and then it rose back up again.
+It was more like there was one civilization that was high and went down, and another civilization based in the north that rose up. In a sense, it was the beginning of everything. That’s why I want to know what the hell was going on in 600 or 700.
+COWEN: Did Rome have to fall? Or can you imagine a path where Rome has an industrial revolution, and we save ourselves 700 or however many centuries of time? Like you need the fragmentation to get the competition for Britain to become significant?
+GRAHAM: Maybe, maybe. I don’t know. Oh, 2,000 years is a long time, or even 1,700 years. Actually, Roman was half decent —
+COWEN: Because China never falls.
+GRAHAM: — until 200, so, 1,500 years. But 1,500 years — things could have changed a lot.
+COWEN: But did they in China? Chinese Empire never collapses. It takes many forms, many dynasties, but it ends up stalling. So maybe the collapse of the Roman Empire was one of the best things that could have happened, for Europe, at least.
+GRAHAM: I’m sure people didn’t think so at the time. People were thinking at the time, “It didn’t have to be this bad.” [laughs] I don’t know. Neither of us knows about this kind of thing.
+COWEN: Looking forward, how optimistic are you about the future of the UK? No real wage growth since 2008, no real productivity growth for as many years. What’s up, and what’s the path out of that?
+GRAHAM: I am optimistic because they still have a gear that they haven’t shifted into. I suppose I’ll really have gotten native when I say “we” instead of “they.”
+COWEN: [laughs] But you grew up in Pittsburgh, right? Near Pittsburgh.
+GRAHAM: Yes, but I’m British by birth.
+COWEN: Does that count? Are you really British, or your parents were diplomats here?
+GRAHAM: No, no, no. Yes, I’m really British.
+COWEN: You’re really British?
+GRAHAM: Yes, yes. Just ask HMRC. As far as they’re concerned, I never left. [laughs] HMRC is the British IRS.
+Okay, the reason I’m optimistic about Britain — I was just thinking about this this morning — is because people here are not slack. They’re not lazy, and they’re not stupid, and that’s the most important thing. Eventually, non-lazy, non-stupid people will prevail.
+I’ve funded a couple of start-ups here. You can see, when you introduce these people to the idea of trying to make something grow really fast and have these really big ambitions, it’s like teaching them a foreign language, but they do learn it. They do learn it. It’s not like English people are somehow genetically inferior to Americans. I think they have all that potential still to go. I’m astonished when I see statistics. I think GDP per capita in the UK is only two-thirds of what it is in America.
+COWEN: It’s about the same as Mississippi.
+GRAHAM: It’s preposterous, I know. Imagine the potential there. Imagine the potential.
+COWEN: You don’t feel that way about Mississippi, necessarily?
+[laughter]
+GRAHAM: No, I think Mississippi’s probably already up close to its full potential. I don’t know. I’ve never actually been there. I shouldn’t say things like that.
+COWEN: Why and how did so many things here end up undercapitalized? The water utilities, the NHS — it seems to be a consistent pattern. That could make us more pessimistic because the flow numbers don’t reflect the fact that capital maintenance is even worse than we had thought.
+GRAHAM: I don’t know. You’re an economist. I don’t know what the term capital maintenance means.
+COWEN: But you’re a British person, I’m told.
+GRAHAM: Undercapitalized — I don’t know what these things mean.
+COWEN: They’ve been postponed.
+GRAHAM: The NHS is run by the government, so things run by governments are often bad. Although the NHS seems to be pretty good. Even though people attack it, it’s a lot more civilized than the American system.
+COWEN: How long it takes an ambulance to arrive if you call one up?
+GRAHAM: Well, that’s only recently got bad. That’s just in the last couple of years.
+COWEN: That’s what undercapitalization means. You keep on borrowing against the future. You don’t plow resources back in, and then at some point you don’t have anymore.
+GRAHAM: Actually, when things get bad enough, they fix things. This place is not run by the kind of yahoos that America is. It may be a small country, but people running things — they’re not just boneheaded political appointees. [laughs] When things are wrong, they notice they’re wrong, and they fix them. This is a very old country. That’s another reason it’s not going to tank. They’ve been through some bad stuff before. There have been ups and downs.
+COWEN: Are you an optimist about the city of San Francisco? Not the area, the city.
+GRAHAM: Yes, I am.
+COWEN: Tell us why.
+GRAHAM: I can’t tell you because there are all sorts of things happening behind the scenes to fix the problem.
+COWEN: In politics, you mean, or in tech start-ups?
+GRAHAM: No, no, no, politics. The problems with San Francisco are entirely due to a small number of terrible politicians. It’s all because Ed Lee died. The mayor, Ed Lee, was a reasonable person. Up till the point where Ed Lee died, San Francisco seemed like a utopia. It was like when Gates left Microsoft, and things rapidly reverted to the mean. Although in San Francisco’s case, way below the mean, and so it’s not that it didn’t take that much to ruin San Francisco. It’s really, if you just replaced about five supervisors, San Francisco would be instantly a fabulously better city.
+COWEN: Isn’t it the voters you need to replace? Those people got elected, reelected.
+GRAHAM: Well, the reason San Francisco fundamentally is so broken is that the supervisors have so much power, and supervisor elections, you can win by a couple hundred votes. All you need to do is have this hard core of crazy left-wing supporters who will absolutely support you, no matter what, and turn out to vote.
+Everybody else is like, “Oh, local election doesn’t matter. I’m not going to bother.” [laughs] It’s a uniquely weird situation that wasn’t really visible. It was always there, but it wasn’t visible until Ed Lee died. Now, we’ve reverted to what that situation produces, which is a disaster.
+COWEN: Now, we’re in 2023. Say, two or three years from now, what do you think the regulation of AI will look like?
+GRAHAM: Oh, God knows. You keep asking me questions I have no idea about.
+COWEN: You have plenty of ideas. You know as much as anyone, I suspect.
+GRAHAM: No, that’s not true. That is not true. [laughs] I really have no idea what AI regulation will look like, or even should look like, which is an easier question.
+COWEN: Here’s an easier question, yes. There is a broadly tech community in the Bay Area.
+GRAHAM: If you said I had to make up the regulations for AI this afternoon, it would be really hard.
+COWEN: I agree.
+GRAHAM: [laughs] That’s how far away I am from being able to answer that question on the spot. I couldn’t even figure it out in a day.
+COWEN: Like when it should be modular, or when there should be a regulation on AI is a thing that itself is intractable.
+Making safe AGI is like writing a secure operating system. It's hard to do it, and it's easy to convince yourself you've done it.Anyone who actually manages to do it, knows that it's hard. If you've written an OS and you think making it secure was easy, that thing ain't secure
+— Rob Miles (✈️ Tokyo) (@robertskmiles) April 29, 2023
+
+GRAHAM: I’ll tell you one meta fact though. There was a guy on Twitter — I think his name was Rob Miles — who said that trying to make safe AI will be like trying to make a secure operating system.
+That is absolutely true, and therefore frightening, because the way you make a secure operating system is not by sitting down and thinking at a table with a piece of paper about the principles for making a secure operating system. More like you try and make such principles, and then someone hacks your operating system. [laughs] Then you think, “Oh, okay, sorry.” You patch it, and then they hack that.
+Making a secure operating system is like making a fraud-proof tax code. It’s basically a series of patches that were based on successful hacks. Is it Mellon? They say the US tax code is, basically, a series of responses to things Mellon did.
+COWEN: Some parts of it, yes.
+GRAHAM: Secure operating systems are like that. I’m worried about AI because you’re not going to be able to figure out — whatever the regulations are, they’ll be wrong, I’ll tell you that. They’ll be overregulated in some ways, and miss and just have huge holes in others.
+COWEN: There’s a Bay Area tech community. At least in the not-too-distant past, they agreed about many things, but very recently, it seems, on AI, there’s quite a divergence of views. People who are very, very worried: “Oh, it’s going to kill us all in the world.” People who say, “Oh, there are problems, but this is going to be great.”
+In as few dimensions as possible, what accounts for that difference in perspective from people with broadly similar backgrounds, and who used to agree on many things? Is it temperament? Is it genes? Is it like a snake bit when —
+GRAHAM: It’s probably which aspect of the problem they choose to focus on. You could focus on either one. If you focus on how it could be good, there are all sorts of exciting things to discover, and you discover lots of genuine ways it could be good. If you focus on how it could be bad, it’s true there, too. So it could be either.
+I manage to keep both thoughts in my head simultaneously. I simultaneously think there will be all kinds of good things and all kinds of bad things. They will be unimaginably good and unimaginably bad. [laughs] It sounds like that produces oscillation, doesn’t it?
+COWEN: Yes.
+GRAHAM: That’s worrying. That in itself is worrying.
+COWEN: Why hasn’t Lisp been more successful? Or do you think it has?
+GRAHAM: Well, Clojure is a dialect of Lisp, and Clojure’s very successful, so it’s been successful in that respect. There’s another way it’s been successful. Some languages that are not considered dialects of Lisp, like JavaScript — if you showed JavaScript to people in 1970, they would say, “This is a Lisp. Except for the syntax, this is a Lisp.” It’s literally successful through Clojure. It’s de facto successful through JavaScript.
+But why doesn’t everybody use Clojure or some other dialect of Lisp? Because the notation is frightening. There’s an initial hump with the notation, and if you give people initial hump — you must know about this. There must be names for this in economics.
+If you put some sort of obstacle, like a container, right in front of people’s front door, they’ll go off to the left, and then they won’t go right back in front of the container and resume their original path. No, they’ll take this other path that goes miles out of their way, just because of that one block in front of their front door. The syntax, the reverse Polish notation, puts people off.
+COWEN: Is AI-generated programming going to vindicate you on Lisp over time, or cousins of Lisp?
+GRAHAM: No, no.
+COWEN: Because the AI doesn’t care about the notation, right?
+GRAHAM: It does.
+COWEN: It does?
+GRAHAM: Because it’s trained based on the amount of code that’s out there.
+COWEN: But you could train it on something more like Lisp if you wanted to.
+GRAHAM: You can’t. You have to train on actual examples people have written.
+COWEN: But you have AI write some code in a perpetual motion machine, train other AIs on that code, and converge to something better, better, better. No?
+GRAHAM: There was some research paper recently, where they trained an AI on the output of AIs, and it converges on crap. Maybe there’ll be some solution because it is a very rapidly evolving field, but I think you have to have a large corpus, initially, of examples written in the language.
+COWEN: Other than hackers and hacking, what other human activities are what you have called high-cost interruption? That is, if you’re interrupted, you lose your train of thought, have to start all over again.
+GRAHAM: Oh, math, I think must be like that. I think anything.
+COWEN: Painting — yes, or no?
+GRAHAM: Not as much in my experience, not as much. You don’t have to think ahead as much in painting. It’s annoying to be interrupted, no matter what, but it doesn’t absolutely destroy you, like it does in the middle of writing a program or something. You don’t build a big mental model of something in your head when you’re painting. That’s what it is. It’s when you’ve got this giant house of cards in your head. That’s when you get destroyed by an interruption.
+COWEN: Do you think kids today spend too much or too little time learning high-cost interruption activities?
+GRAHAM: Do they spend too much or too little time working —
+COWEN: Like, are we underinvesting in high-cost interruption activities?
+GRAHAM: Well, if you think about what it’s like in schools, kids are constantly being interrupted, and they always have been.
+COWEN: Of course.
+GRAHAM: So, whatever the answer is, it’s not going to be kids these days. It will be a statement about school for centuries. Kids have such short attention spans. The one thing they can’t do is things that are big and long. I think if you said, “Okay, you have five hours to sit in a quiet room and build something,” I don’t think they’d be up to it, anyway.
+COWEN: Our last segment is what I call the Paul Graham production function, which is how you got to be Paul Graham. Would you major in philosophy again at Cornell, if you were doing it all over?
+GRAHAM: No, I would not major in philosophy.
+COWEN: Why not? Didn’t it allow you to think at a very general level?
+GRAHAM: Well, it’s hard to say. It’s hard to say. It’s good to be able to take ideas and flip them around like a Rubik’s Cube, and take them apart, and notice the two parts are the same shape or something like that, but I don’t think I actually learned that in philosophy classes. I think I would’ve learned that in classes about anything hard.
+I mistakenly thought that you could just go and learn the most abstract truths. It sounds great to a high school student. “Why do I have to learn all the specific crap? I’ll just learn the most general truths.” Needless to say, that’s one of those things that sounds too good to be true, and it is, because if you go and look in philosophy classes . . .
+I remember when Bill Clinton was saying, “It depends on what the meaning of ‘is’ is.” I’m like, “Hey, that’s what I majored in, [laughs] what the meaning of ‘is’ is, literally.” I think it was pretty much a waste.
+COWEN: Which kinds of ideas come more naturally to you while you’re walking?
+GRAHAM: Which kinds?
+COWEN: Yes. Maybe not painting ideas, but some kind of ideas, because you’ve written about how using walking to learn ideas is a good thing, but which kinds of ideas? There’s cross-sectional variation, right?
+GRAHAM: Yes. Well, ideas about whatever you’re thinking about. I remember, until a few years ago, I was working very intensely on programming. I had the problem I was working on loaded into my head, and whenever I was doing something without any interruptions, I would start to think about that, so I think it’s good for whatever you happen to be thinking about. Mathematicians, apparently, walk a lot.
+COWEN: I find it best for learning from what the other person knows, not so good from my own ideas. It’s better —
+GRAHAM: What, when you’re walking with someone else?
+COWEN: With someone else, and I’m talking with them, and I learn from them better. I don’t find that I’m very generative when I’m walking.
+GRAHAM: Walking makes all kinds of thinking better. I’ve seen images — like MRI images or something like that — of brain activity. I don’t know how they do MRI images, [laughs] but some kind of images of brain activity. Your brain is definitely more active when you’re walking. Classic YC office hours were to walk down the block and talk as you walk, which also has the side benefit that you are side-by-side, and not looking the other person in the face, which I think may be better. It’s certainly better than —
+COWEN: It’s less threatening. It’s like confession in the church. You don’t see the priest. Or you’re on a therapist’s couch — probably you’re not looking right at them, and vice versa.
+GRAHAM: Or you’re driving your kid back to boarding school. You’re taking kids —
+COWEN: And they’ll say things they would not otherwise have told you.
+GRAHAM: Or talk at all. [laughs]
+COWEN: What are the best environments for learning while walking? Urban, British countryside, or —
+GRAHAM: Oh, my God.
+COWEN: How do you optimize this dose?
+GRAHAM: I actually have —
+COWEN: I think Britain is wonderful for learning while walking because it’s never too hot. You heat up while you’re walking.
+GRAHAM: It doesn’t pour with rain on you like it did today? I was drenched today.
+COWEN: It ends in four minutes. You can bring an umbrella. You run to the gazebo, but there is a gazebo.
+GRAHAM: There was no gazebo where I was this morning.
+I think it’s good to always walk in the same place. You don’t want to see things that distract you. If you’re trying to have ideas, you’re not going to get ideas from things you see. Probably not. Not relevant ones. You want to walk in the same place, and it should be something where there’re no distractions, so I would think the countryside. Where I go walk is on this preserved medieval common — to an American, it would look like a large park — and it’s the perfect thing. I just always take the same route. There’s not much on it. [laughs] I see grass and trees. That’s about it.
+COWEN: What’s the most important thing you’ve learned about soundproofing?
+GRAHAM: Boy, there’s a good question. I’ve learned a few things about soundproofing. Can I only say one thing?
+COWEN: One thing is fine. The most important.
+GRAHAM: No, no. You said, “What’s the most important?” Can I say some more?
+COWEN: Oh, no. You can say more than one.
+GRAHAM: Okay. Well, one is that sound comes through holes. It doesn’t come through your walls; it comes through your windows, probably, in most places. If you fix the holes, you fix the noise problem.
+The other thing I’ve learned is basically, the solution — it’s either multiple layers, in the case of windows, or simply mass. You make some big, thick door, and make it have hinges that make it sink down. That’s what recording studios have. When the door opens, it rises up a little bit, and when it closes, it goes shoomp right down onto the floor.
+So, great big, heavy doors, multiple-paned windows. And, weirdly enough, I’ve managed to soundproof some places so effectively that I’ve noticed this phenomenon you only notice with soundproofing — all kinds of things make annoying noises you never noticed before.
+[laughter]
+COWEN: That’s right. It’s a war of attrition of sorts.
+GRAHAM: Yes, exactly. Soundproofing is worth it, though. Quiet is really good, at least for me.
+COWEN: There’s an optimal level of fame. Do you feel you have too much or too little?
+GRAHAM: What is the optimal level of fame? I suppose it’s when you can get resources you need or something like that, or if there’s someone you need to talk to, they’ll talk to you. I can now talk to most people I need to talk to. If I want to talk to somebody, I can find somebody who will introduce me, so that must be enough.
+COWEN: Are you past the optimal?
+GRAHAM: I don’t know. That’s the thing. This sounds very arrogant, but I realized this with Y Combinator. I realized that Y Combinator had become famous long after it had become famous. As far as I was concerned, I was just doing what we’d always been doing. Every six months, we would get all these applications. We’d have to find the needle in the haystack, [laughs] get all these start-ups, help them grow, find investors for them, and then it would start again.
+It didn’t seem like YC was any different. It was the same building, the same people. We would get more start-ups. Meanwhile, YC was starting to be considered as this giant gatekeeper for Silicon Valley or something like that.
+COWEN: But Jessica knew it was different, right?
+GRAHAM: You’re not aware. Famous people don’t know how famous they are, unless they’re experts on it, like movie stars or something like that. They’re always basically taken by surprise. We were especially taken by surprise because the thing is, the companies we funded would grow until they had thousands of employees, but YC itself didn’t grow.
+YC’s market-wise — the value of the portfolio grew with these giant companies, but we didn’t see it. We were still just a few people doing the same thing we’d always been doing, so how could we be famous? I discovered that was one of the biggest mistakes I made with YC. I didn’t realize how many people were watching us. I thought we could just keep doing what we were doing, and nothing really mattered.
+COWEN: Why was that a mistake, per se? Maybe it was better being oblivious.
+GRAHAM: No, because when — basically, anybody outside Silicon Valley who wants to blame Silicon Valley for something, well, who do they blame? They’ve never heard of the people who are actually powerful in Silicon Valley. They only know a handful of people who have consumer brands, me among them. Basically, the world sucks because of tech, and tech sucks because of Paul Graham, [laughs] because they’ve never heard of any of the other people.
+I don’t seem to get quite so much of that anymore. I don’t know. I’m glad about that. With YC, definitely, I didn’t know how prominent YC was becoming, and how many people would be out to get us as a result.
+COWEN: Very last question. In my view, a life properly lived is learn, learn, learn all the time.
+GRAHAM: That’s what Charlie Munger said, right?
+COWEN: Yes. Now, what have you recently been learning about, other than soundproofing?
+GRAHAM: Well, Tintoretto. [laughs]
+COWEN: What are you learning?
+GRAHAM: Well, Vasari had a very low opinion of him.
+COWEN: Vasari is unreliable on most things, right?
+GRAHAM: I don’t know. I don’t know.
+COWEN: He way overrated his patrons, the Medici.
+GRAHAM: Yes. You have a thing about the Medici, clearly. He said that Tintoretto was too independent-minded, that Tintoretto was a mad genius, and that he would’ve been better if he had constrained his creativity and stayed within the limits of proper art. You know what I mean? A very Florentine sort of idea. I think Tintoretto would have looked down on Vasari as a minor-league artist, but that was interesting. That was interesting to learn that’s how at least some of Tintoretto’s contemporaries viewed him, and Vasari in particular.
+COWEN: And a Y Combinator co-founder is not going to buy that argument, is he?
+GRAHAM: Which Y Combinator founder?
+COWEN: Of Vasari’s, that he was too radical, and too off on his own.
+GRAHAM: Oh, I thought you meant Jessica was and agreed with me about Tintoretto.
+COWEN: Well, there are two of you. Neither of you would agree with Vasari.
+GRAHAM: I don’t know. I’m now going to look. I never thought about this, but I was just looking at some Tintorettos. I was just in Venice, looking at the Scuola Grande di San Marco, where all those Tintorettos are, and they were so dirty. It was hard to tell [laughs] what the paintings actually looked like, [laughs] but I’m going to go look. I’m going to go look and see if they seem freakish.
+COWEN: Paul Graham, thank you very much.
+GRAHAM: [laughs] Thank you. Boy, that was so many hard questions.
+Get the latest #cowenconvos delivered straight to your inbox.
+
+Interview with Richard Woodward, New York City, June 2007
+RW: Let’s start with this new book, which is actually a series of books, and work backwards. How did the project originate?
+PG: Well, my principal source was from reading Chekhov’s Short Stories, and the critical essays around those. A lot of people have tried to understand why this writing works so well, since in the stories there’s not much happening. They’re dealing with the simple, everyday things—in one of them a woman is combing her hair for six pages, remembering that night at the theater; in another a school teacher is coming home in a cart dreaming of meeting the landowner, who does ride past and they exchange a few pleasantries, but nothing more. But there’s something magical about how perfectly described they are, the transparency of what’s happening, without guff or show, simply described, with nothing proscribed.
+I’ve been traveling around the States for a while now, and wanted to do something looser and freer, to take pictures of people at the most ordinary, everyday moments—cutting the grass or waiting for the bus, smoking cigarettes or traveling to and from the supermarket. I wanted to reflect Chekhov’s openness, his simple transparency; this was something I tried to move toward. I’m not, of course, literally illustrating Chekhov’s stories, but simply isolating a small rivulet of time. So, each of the individual books is a photographic short story, a filmic haiku. They are quite short, but complete in their own modest way.
+RW: But difficult to convey, I would think, no? The layout must have been the crucial step.
+PG: Yes, in terms of making them, it was a process of letting go of one’s own pretensions and not looking for this great summation picture of any given situation. For example, while photographing a man smoking at a bus stop in Vegas, I just had to slow down, take a step back, and realize that the moment before and the moment after are just as valuable as the instant when he takes the perfect drag on the cigarette.
+The multiple book form is the most logical development of this—ten or twelve volumes each holding one or two stories within their pages; self-contained yet linked to each other. And I’m fortunate enough to have Michael Mack and Gerhard Steidl support this. One book has just a single picture in it; another has 64 pages of images taken at an intersection in New Orleans, watching life roll by.
+RW: Where was the picture of the lawn mowing man taken? It’s fantastic.
+PG: Thank you. it’s in Pittsburgh. That was one of my early road trips and I really wasn’t expecting much. When I set out I thought, I’ll never be able to do anything good, so I’ll just have fun, and see the country a bit. But then I saw this guy cutting the grass. It’s kind of perfect that his shirt is a riff on the American flag too.
+RW: What I like about the work is that you are clearly dissatisfied with the confines of traditional documentary but you haven’t made the jump, as so many do, to video. You haven’t given into temptations…
+PG: …like staging my work. I’ve never wanted to become a filmmaker. I’ve always seen the two major tropes in photography as the studio and the street. And I’m a street person. I don’t get tired of trying to understand and look at the wonderful amazing nature of what’s around us. Yes, I have dissatisfaction with classic documentary language. It was wonderful when it was invented. But it has to be alive, to grow, develop, just like the spoken word. We don’t speak the same way we spoke in 1938 or 1956, so why should we make pictures the same way?
+RW: But the dissatisfaction of others, particularly with the narrative limitations of photography, has led them to add sound or moving image sequences. You seem determined—and happy—to stay within the boundaries.
+PG: Well, some might see these books as leading toward building a narrative.
+RW: Clearly.
+PG: Part of this is about the new flexibility of digital photography. You are able to shoot and shoot and then look at everything on screen. The technology does liberate people. You can get remarkable quality, close to 4×5, working on the street.
+RW: But you are clearly an outsider and we never learn much about these people.
+PG: I have no problem with that. I don’t want to feign being intimate with somebody I meet 5 minutes ago. I accept and embrace that so much in life is “ships passing in the dark.” The world is comprised of 99.9% strangers.
+ 
+ 
+ 
+
+ 
+
+ from Beyond Caring
+ 
+ 
+RW: Is that what you don’t like about photojournalism, the pretense of intimacy that is there?
+PG: It’s undoubtedly there in some photojournalism. But I have more problems with the motives and uses of photojournalism — the clichéd stories they tell, or the way photography is used to service a written story. There is of course some great and rare exceptions that far exceed this criticism, but we have to be honest: so much in photography is pabulum, and aspires to nothing beyond well-worn vernacular.
+RW: Let’s move backward. Who were the important photographers to you when you were starting out in England?
+PG: The important photographers for me belong in that period from 1966 to 1976, mostly American, let’s say from “New Documents” to “New Topographics”. It was a profound creative period for photography. Szarkowski at MoMA radicalized things for photographers by creating an artistic territory to operate in that wasn’t there before. Before, you were either an editorial photographer working for magazines in a semi-documentary style, or a fine-art photographer making pictures of landscapes or nudes or rocks. He swept aside that division and showed that people like Diane Arbus and Garry Winogrand were making the most profound photographic work of our time, and though it looked like ‘documentary,’ it was far more than that, and it didn’t belong in magazines, but in museums. This was transformative: bringing ‘documentary style’ work into the highest museum of our country. It’s little appreciated, but was perhaps Szarkowski’s greatest gift—recognizing and defining a new artistic space.
+RW: How was that work translated for a man growing up in England?
+PG: When I became aware of it in the mid 70s, it was through books. Hence my great emphasis on books in my work. Reading Public Relations, and the Diane Arbus monograph and Lee Friedlander books, was very important. I didn’t get Robert Frank at first, because it seemed almost photojournalistic, but strangely I got Eggleston right away.
+ 
+ 
+ 
+RW: Really?
+PG: It was an instinctual rather than an intellectual understanding. The first thing I saw of his was a promotional pamphlet for Election Eve. A friend came back from the states, and he gave me this brochure with six pictures in it. I was struck by his elliptical, tangential approach. So elegant and beautiful.
+RW: So you were taking pictures by then?
+PG: I learned how a camera works early on, maybe even in the Scouts… but there was no concept of what you could do with it. Seeing the work of Winogrand or Friedlander was like the proverbial light going on. The fact that you could say something profound about the world through photographs was a life-changing revelation.
+RW: That’s a bold leap to make right out of the box, from the Scouts to understanding a Winogrand or Friedlander photograph.
+PG: Well there were a few years between the two! I wouldn’t claim to understand everything about Winogrand’s work, though essays like Tod Papageorge’s in Public Relations are wonderful reading for anyone who cares about photography. One of the great things about this medium is that you don’t need to have an academic degree to get it; photography can be so visceral, it cuts right through language that way.
+RW: Did you go out and try to take Eggleston pictures?
+PG: Well, yes and no… (Laughs.) … the great open road journey photography doesn’t translate that well to the United Kingdom. It’s not that big. What I adapted was an amalgam of Eggleston and Robert Adams, and put that together with the classic British obsession with Social Critique. It became my own mash-up, if you will.
+RW: Did you realize that you could have a career?
+PG: A “career”—god no! Sadly I belong to that naïve alternative culture of the 70s that rejected “careers.” I did what most UK musicians and would-be rock stars did: I went on the dole. Oh, and I worked Saturdays in an arts bookshop, which meant I could order anything I wanted. I stocked the place with these amazing books: New Topographics catalogs, Robert Adams’ The New West, early Ed Ruscha books, etc. We never managed to sell any of them — they were all remaindered for 50c!
+RW: But if you’re going to travel to Europe and Japan you must have figured out ways to support yourself.
+ 
+
+ from A Shimmer of Possibility
+ 
+PG: You sleep on friend’s floors. I traveled in an old Mini — the original Mini — and I slept in the back of that for a long time. That was uncomfortable! I ate in truck driver’s cafes, and had a friend who found out-of-date film for me. Then you do some teaching and get a small grant. The documentary-style tradition is very strong in England. Eventually I met up with Martin Parr, Chris Killip, Graham Smith, John Davis.
+Then my first book, A-1 The Great North Road came out in 1983. It was a journey along the main artery of the UK, much like Alec Soth did with the Mississippi recently. Large format color, landscapes, portraits, buildings, etc. The book proved quite poisonous to that black-and-white tradition. It’s been forgotten how radical it was to work within the social documentary tradition in color, at that time. Now it’s so commonplace, people wonder what was the issue?
+Within four years I published three books: A1, Beyond Caring, and Troubled Land, driven by the boundless energy of youth, no doubt… but by 1987, we had this juggernaut of color documentary photography emerging in England; it had really taken off. Martin Parr switched to color, so did people like Tom Wood, and then our students, like Paul Seawright or Richard Billingham or Nick Waplington came along. So… I felt it was time to move on from that, before it became exhausted. For example, the mixing of landscape with war photography in Troubled Land was striking and quite successful —I had shows in NYC galleries—but what happens is that you hit this resonant note and everyone wants you to repeat it. I was invited to duplicate Troubled Land in Israel and South Africa. Commissions, dollars, travel, the whole nine yards. But I thought, I can’t do this. For better or worse, I’m one of those artists who once something is “proven,” have to drop it and find another way to scare myself.
+RW: So you went to Europe?
+PG: In the early to mid 80s I had made friends with a group of German photographers who were quite distinct from the Becher’s Dusseldorf school. They were mostly around Essen-Berlin: Volker Heinze, Joachim Brohm, Gosbert Adler, and Michael Schmidt too, who was running these workshops in Berlin and inviting people like John Gossage and Lewis Baltz to come over.
+RW: It’s funny that that school is so unknown here. Michael Schmidt even had a one-man show at MoMA.
+ 
+
+ 
+
+from A Shimmer of Possibility
+
+ John Gossage made a great comment that his books are the original work. It’s the summation of one’s endeavors—the book is the work. Now, a painter or a sculptor can have a catalogue of their work but… it’s completely different in photography. It is the exact thing—maybe a little smaller scale—but with a one-on-one dialogue when you read it.
+ 
+PG: Yes, a great show and few remember it. It’s as though the Gursky show wiped out people’s under-standing of everything else in German Photography. Gursky is much more accessible. He goes for the jugular because it is about the ‘Great Photograph.’ Of course, he succeeds, but it’s recidivist, in a way. Photographers have been trying for years to make bodies of work where images work together to build up a coherent statement. It’s not about one great picture by Robert Adams; it’s about twenty or thirty pictures that form a sensitive, intelligent reflection of the world. It’s the same with Garry Winogrand, or Robert Frank. Gursky brings it back to that “wow” moment. It sort of undoes that way of working, and reduces things to the “What a great shot!” appreciation of photography. I’m a sucker for that as much as anyone, but want people to appreciate what Robert Adams does more so.
+RW: So you were hanging out with these guys and going back and forth to Europe?
+PG: I actually lived in England most of the time, but I would go stay with Volker in Essen or visit Michael in Berlin. I lived in Berlin one summer; actually one photograph in New Europe is inside Michael’s apartment. We all came and went. It was a reciprocal thing. Somehow I went from being part of this English group with Martin Parr et al, to being an honorary member of this German alliance. They became much more relevant to my way of working and seeing the world. My work grew quite a bit, as all of ours did in that grouping, and when it was finished, in 1992, I released the book New Europe. That was made for the opening exhibition for the Fotomuseum Winterthur in Switzerland, but the book was never distributed here in the U.S. so it’s not so well known. Gerry Badger insisted it be included in The Photobook II so at least someone saw it.
+RW: One of the paradoxes of our time, and I’ve discussed this with many people, is this explosion of photography books at the same time as the explosion in new media. Every photographer has his or her own website and gets their information on-line. And yet they all still want to make books. What is the enduring appeal?
+PG: John Gossage made a great comment that his books are the original work. It’s the summation of one’s endeavors—the book is the work. Now, a painter or a sculptor can have a catalogue of their work but… it’s completely different in photography. It is the exact thing—maybe a little smaller scale—but with a one-on-one dialogue when you read it. Looking at a Nan Goldin book is quite different from viewing her photographs on the wall with other people around you. The book is personal and direct, from the artist to you, complete and faithful.
+RW: That’s true. When you’re looking at images on-line, it’s a much more public experience than with a book. You’re part of a community and reading in a public square when you go to your computer.
+PG: Yes, you’re right. It’s something I wonder about with A Shimmer of Possibility. Am I diffusing that intimate experience by doing twelve books with Steidl? Or am I taking it to the maximum degree by separating each piece of work into its own volume, allowing each story to have that precious moment of intimacy with you? So much art relies on the confidence transaction. I know this is different, doing ten or twelve books. I know it seems crazy, but I’m asking you to trust me and enjoy this quiet journey. Just slow down and look at this ordinary moment of life. See how beautiful it is, see how life flows around us, how everything shimmers with possibility.
+ 
+
+www.paulgrahamarchive.com
+ 
+ASX CHANNEL: Paul Graham
+For more of American Suburb X, become a fan on Facebook and follow ASX on Twitter.
+(© Richard Woodward, 2007. All rights reserved. All images © copyright the photographer and/or publisher)
+
+ 
+PG: Yes, a great show and few remember it. It’s as though the Gursky show wiped out people’s under-standing of everything else in German Photography. Gursky is much more accessible. He goes for the jugular because it is about the ‘Great Photograph.’ Of course, he succeeds, but it’s recidivist, in a way. Photographers have been trying for years to make bodies of work where images work together to build up a coherent statement. It’s not about one great picture by Robert Adams; it’s about twenty or thirty pictures that form a sensitive, intelligent reflection of the world. It’s the same with Garry Winogrand, or Robert Frank. Gursky brings it back to that “wow” moment. It sort of undoes that way of working, and reduces things to the “What a great shot!” appreciation of photography. I’m a sucker for that as much as anyone, but want people to appreciate what Robert Adams does more so.
+RW: So you were hanging out with these guys and going back and forth to Europe?
+PG: I actually lived in England most of the time, but I would go stay with Volker in Essen or visit Michael in Berlin. I lived in Berlin one summer; actually one photograph in New Europe is inside Michael’s apartment. We all came and went. It was a reciprocal thing. Somehow I went from being part of this English group with Martin Parr et al, to being an honorary member of this German alliance. They became much more relevant to my way of working and seeing the world. My work grew quite a bit, as all of ours did in that grouping, and when it was finished, in 1992, I released the book New Europe. That was made for the opening exhibition for the Fotomuseum Winterthur in Switzerland, but the book was never distributed here in the U.S. so it’s not so well known. Gerry Badger insisted it be included in The Photobook II so at least someone saw it.
+RW: One of the paradoxes of our time, and I’ve discussed this with many people, is this explosion of photography books at the same time as the explosion in new media. Every photographer has his or her own website and gets their information on-line. And yet they all still want to make books. What is the enduring appeal?
+PG: John Gossage made a great comment that his books are the original work. It’s the summation of one’s endeavors—the book is the work. Now, a painter or a sculptor can have a catalogue of their work but… it’s completely different in photography. It is the exact thing—maybe a little smaller scale—but with a one-on-one dialogue when you read it. Looking at a Nan Goldin book is quite different from viewing her photographs on the wall with other people around you. The book is personal and direct, from the artist to you, complete and faithful.
+RW: That’s true. When you’re looking at images on-line, it’s a much more public experience than with a book. You’re part of a community and reading in a public square when you go to your computer.
+PG: Yes, you’re right. It’s something I wonder about with A Shimmer of Possibility. Am I diffusing that intimate experience by doing twelve books with Steidl? Or am I taking it to the maximum degree by separating each piece of work into its own volume, allowing each story to have that precious moment of intimacy with you? So much art relies on the confidence transaction. I know this is different, doing ten or twelve books. I know it seems crazy, but I’m asking you to trust me and enjoy this quiet journey. Just slow down and look at this ordinary moment of life. See how beautiful it is, see how life flows around us, how everything shimmers with possibility.
+ 
+www.paulgrahamarchive.com
+ 
+For more of American Suburb X, become a fan on Facebook and follow ASX on Twitter.
+(© Richard Woodward, 2007. All rights reserved. All images © copyright the photographer and/or publisher)
+
+Personal space
+Only you
+Create teamspace
+Home
+My projects
+Library
+Help
+Wondercraft 101
+Changelog
+
+PG Essays
+Jul 14, 2023 · 5:39
+0:00
+0:00
+All Paul Graham essay's, brought to life in audio format. This is a third party project, independent from Paul Graham, and produced by Wondercraft AI.
+In this episode, we cover:
+
+(00:00): Intro
+
+(00:33): "Unveiling the Fiction: The Evolution of Ideas in Writing"
+
+(02:34): The Power of Writing: Making Ideas Precise and Complete
+
+(05:26): Outro
+Wondercraft - AI audio editor to easily create podcasts, ads, audiobooks, and more by simply typing.
+
+Episode 314: 
+#314 Paul Graham (How To Do Great Work)
+
+Founders
+Episode 314
+Hosted by David Senra
+07.31.2023
+David Senra is the host of Founders, where he studies history's greatest entrepreneurs. This is what he learned reading How To Do Great Work by Paul Graham.
+What I learned from reading How To Do Great Work by Paul Graham.
+---
+Join Founders AMA
+Members of Founders AMA can:
+-Email me your questions directly (you get a private email address in the confirmation email) 
+-Promote your company to other members by including a link to your website with you question 
+-Unlock 31 Ask Me Anything (AMA) episodes immediately
+-Listen to new Ask Me Anything (AMA) episodes every week 
+---
+One of the best podcasts I've heard this year: Listen to Invest Like The Best #336 Jeremy Giffon Special Situations in Private Markets 
+---
+Join my free email newsletter to get my top 10 highlights from every book
+---
+(2:00) All you need to do is find something you have an aptitude for and great interest in.
+(2:10) Doing great work means doing something important so well that you expand people's ideas of what's possible.
+(4:15) How many even discover something they love to work on? A few hundred thousand, perhaps, out of billions.  —How to Do What You Love by Paul Graham
+(5:10) Always preserve excitingness. (Let what you are excited about guide you)
+(8:15) If you're excited about some possibility that everyone else ignores, and you have enough expertise to say precisely what they're all overlooking, that's as good a bet as you'll find.
+(9:15) How To Work Hard by Paul Graham
+(10:05) When you follow what you are intensely interested in this strange convergence happens where you're working all the time and it feels like you're never working.
+(10:20) You can't tell what most kinds of work are like except by doing them. You may have to work at something for years before you know how much you like it or how good you are at it.
+(13:00) When it comes to figuring out what to work on, you're on your own.
+(14:00) Lighting Out for the Territory: How Samuel Clemens Headed West and Became Mark Twain by Roy Morris Jr. (Founders #312)
+(17:15) One sign that you're suited for some kind of work is when you like even the parts that other people find tedious or frightening.
+(17:50) Make what you are most excited about.
+(19:00) If you're interested, you're not astray.
+(19:30) Against the Odds: An Autobiography by James Dyson (Founders #300)
+(20:15) At each stage do whatever seems most interesting and gives you the best options for the future. I call this approach "staying upwind." This is how most people who've done great work seem to have done it.
+(22:50) In many projects a lot of the best work happens in what was meant to be the final stage.
+(25:00) A Mathematician’s Apology by G.H. Hardy
+(26:00) Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem.
+(26:30) The reason we're surprised is that we underestimate the cumulative effect of work. Writing a page a day doesn't sound like much, but if you do it every day you'll write a book a year. That's the key: consistency. People who do great things don't get a lot done every day. They get something done, rather than nothing.
+(27:10) Something that grows exponentially can become so valuable that it's worth making an extraordinary effort to get it started.
+(27:30) Taylor Swift (Acquired’s Version)
+(30:00) If you don't try to be the best, you won't even be good. This observation has been made by so many people in so many different fields that it might be worth thinking about why it's true.
+(36:00) Originality isn't a process, but a habit of mind. Original thinkers throw off new ideas about whatever they focus on.
+(38:00) Change breaks the brittle.
+(43:45) What might seem to be merely the initial step — deciding what to work on — is in a sense the key to the whole game.
+(45:00) Being prolific is underrated. + Examples of outlandishly prolific people
+(48:30) Just focus on the really important things and ignore everything else.
+(50:30) One of the most powerful kinds of copying is to copy something from one field into another. History is so full of chance discoveries of this type that it's probably worth giving chance a hand by deliberately learning about other kinds of work. You can take ideas from quite distant fields if you let them be metaphors.
+(51:30) Seek out the best colleagues.
+(54:30) Solving hard problems will always involve some backtracking.
+(56:30) Don't marry someone who doesn't understand that you need to work, or sees your work as competition for your attention. If you're ambitious, you need to work; it's almost like a medical condition; so someone who won't let you work either doesn't understand you, or does and doesn't care.
+(57:50) The prestige of a type of work is at best a trailing indicator and sometimes completely mistaken. If you do anything well enough, you'll make it prestigious.
+(58:00) Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.
+If you asked an oracle the secret to doing great work and the oracle replied with a single word, my bet would be on "curiosity."
+The whole process is a kind of dance with curiosity.
+----
+Join Founders AMA
+Members of Founders AMA can:
+-Email me your questions directly (you get a private email address in the confirmation email) 
+-Promote your company to other members by including a link to your website with you question 
+-Unlock 31 Ask Me Anything (AMA) episodes immediately
+-Listen to new Ask Me Anything (AMA) episodes every week 
+----
+“I have listened to every episode released and look forward to every episode that comes out. The only criticism I would have is that after each podcast I usually want to buy the book because I am interested, so my poor wallet suffers.” — Gareth
+Be like Gareth. Buy a book: All the books featured on Founders Podcast
+07.31.2023
+Hosted by David Senra
+How to do great work. If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out the following recipe assumes you're very ambitious. The first step is to decide what to work on. The work you choose needs to have 3 qualities. Number one, it has to be something you have a natural aptitude for. Number two, you have to have a deep interest in it. And number three, it offers the scope to do great work. In practice, you don't have to worry much about the third criteria.
+All you need to do is find something you have an aptitude for and a great interest in. And right away, we get to one of Paul's first footnotes. He says, doing great work means doing something important so well that you expand people's ideas of what's possible, but there's no threshold for importance. That's something he's going to repeat many times in different ways throughout the essays. So you just keep that idea in mind. There's no threshold for importance.
+Get in touch at help@joincolossus.com
+
+                    Sign Up                
+
+                    Menu                
+Stay up to date on the latest from Colossus
+Our Weekly Newsletter
+
+What I learned from reading Paul Graham’s essays.
+----
+Get access to the World’s Most Valuable Notebook for Founders at Founders Notes.com
+----
+[4:52] My father told me I could be whatever I wanted when I grew up, so long as I enjoyed it.
+[5:49] Do what you love doesn't mean, do what you would like to do most this second.
+[7:41] To be happy I think you have to be doing something you not only enjoy, but admire. You have to be able to say, at the end, wow, that's pretty cool.
+[8:00] You should not worry about prestige. This is easy advice to give. It’s hard to follow.
+[10:22] You have to make a conscious effort to keep your ideas about what you want from being contaminated by what seems possible.
+[12:18] Whichever route you take, expect a struggle. Finding work you love is very difficult. Most people fail.
+[16:46] How To Do What You Love by Paul Graham 
+[16:34] What Doesn’t Seem Like Work by Paul Graham 
+[17:16] If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
+[17:42] Michael Jordan said what looked like hard work to others was play to him. Michael Jordan: The Life by Roland Lazenby. (Founders #212) and Driven From Within by Michael Jordan and Mark Vancil. (Founders #213)
+[20:53] How Not to Die by Paul Graham 
+[23:00] All that matters is to survive. The rest is just words. — Charles de Gaulle by Julian Jackson (Founders #224)
+[24:49] You have to assume that running a startup can be demoralizing. That is certainly true. I've been there, and that's why I've never done another startup.
+[27:31] If a startup succeeds, you get millions of dollars, and you don't get that kind of money just by asking for it. You have to assume it takes some amount of pain.
+[28:17] So I'll tell you now: bad shit is coming. It always is in a startup. The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand.
+So don't get demoralized. When the disaster strikes, just say to yourself, ok, this was what Paul was talking about. What did he say to do? Oh, yeah. Don't give up.
+[28:45] Why to Start a Startup in a Bad Economy by Paul Graham 
+[30:23] If we've learned one thing from funding so many startups, it's that they succeed or fail based on the qualities of the founders.
+[31:15] If you're worried about threats to the survival of your company, don't look for them in the news. Look in the mirror.
+[34:10] The cheaper your company is to operate, the harder it is to kill.
+[35:43] Relentlessly Resourceful by Paul Graham 
+[35:43] I finally got being a good startup founder down to two words: relentlessly resourceful.
+[37:20] If I were running a startup, this would be the phrase I'd tape to the mirror. "Make something people want" is the destination, but "Be relentlessly resourceful" is how you get there.
+[37:40] The Anatomy of Determination by Paul Graham 
+[37:45] David’s Notes: A Conversation with Paul Graham
+[39:50] After a while determination starts to look like talent.
+[42:12] Ambitious people are rare, so if everyone is mixed together randomly, as they tend to be early in people's lives, then the ambitious ones won't have many ambitious peers. When you take people like this and put them together with other ambitious people, they bloom like dying plants given water. Probably most ambitious people are starved for the sort of encouragement they'd get from ambitious peers, whatever their age.
+[43:21] One of the best ways to help a society generally is to create events and institutions that bring ambitious people together. (Founders Podcast Conference?)
+[45:21] What Startups Are Really Like by Paul Graham 
+[49:00] The Entire History of Silicon Valley by John Coogan
+[49:50] Meet You In Hell: Andrew Carnegie Henry Clay Frick, and the Bitter Partnership That Transformed America by Les Standiford. (Founders #73)
+[55:08] You need persistence because everything takes longer than you expect. A lot of people (founders) were surprised by that.
+[57:18] Estee Lauder was a master at doing things that don’t scale. Estée Lauder: A Success Storyby Estée Lauder. (Founders #217)
+[58:45] What makes companies fail most of the time is poor execution by the founders. A lot of times founders are worried about competition. YC has founded 1900+ companies. 1 was killed by competitors. You have the same protection against competitors that light aircraft have against crashing into other light aircraft. Do you know what the protection is? Space is large.
+[1:01:00] Paul on what he would do if he was strating a company today: 
+If I were a 22 year starting a startup I would certainly apply to YC. Which is not that surprising, since it was designed to be what I wish I'd had when I did start one. But (assuming I got in) I would not get sucked into raising a huge amount on Demo Day.
+I would raise maybe $500k, keep the company small for the first year, work closely with users to make something amazing, and otherwise stay off SV's radar.
+Ideally I'd get to profitability on that initial $500k. Later I could raise more, if I felt like it. Or not. But it would be on my terms.
+At every point in the company's growth, I'd keep the company as small as I could. I'd always want people to be surprised how few employees we had. Fewer employees = lower costs, and less need to turn into a manager.
+When I say small, I mean small in employees, not revenues.
+[1:05:07] Against The Odds: An Autobiography by James Dyson (Founders #200)
+[1:07:00] A Word To The Resourceful by Paul Graham 
+[1:08:07] We found the startups that did best were the ones with the sort of founders about whom we'd say "they can take care of themselves." The startups that do best are fire-and-forget in the sense that all you have to do is give them a lead, and they'll close it, whatever type of lead it is.
+[1:09:00] Understanding all the implications of what someone tells you is a subset of resourcefulness. It's conversational resourcefulness.
+[1:11:00] Do Things That Don’t Scale by Paul Graham 
+[1:11:00] Startups take off because the founders make them take off.
+[1:16:00] The question to ask about an early stage startup is not "is this company taking over the world?" but "how big could this company get if the founders did the right things?" And the right things often seem both laborious and inconsequential at the time.
+[1:16:00] Hard Drive: Bill Gates and the Making of the Microsoft Empire by James Wallace and Jim Erickson (Founders #140)
+[1:21:00] The world is complicated. It is noisy. We are not going to get a chance to get people to remember much about us. No company is. So we have to be really clear about what we want them to know about us. —Steve Jobs
+[1:22:00] Any strategy that omits the effort is suspect.
+[1:23:00] The need to do something unscalably laborious to get started is so nearly universal that it might be a good idea to stop thinking of startup ideas as scalars. Instead we should try thinking of them as pairs of what you're going to build, plus the unscalable thing(s) you're going to do initially to get the company going.
+Now that there are two components you can try to be imaginative about the second as well as the first. Founders need to work hard in two dimensions.
+----
+Get access to the World’s Most Valuable Notebook for Founders at Founders Notes.com
+----
+“I have listened to every episode released and look forward to every episode that comes out. The only criticism I would have is that after each podcast I usually want to buy the book because I am interested so my poor wallet suffers. ” — Gareth
+Be like Gareth. Buy a book: All the books featured on Founders Podcast
+
+----
+Founders Notes gives you the ability to tap into the collective knowledge of history's greatest entrepreneurs on demand. Use it to supplement the decisions you make in your work.  Get access to Founders Notes here. 
+----
+“I have listened to every episode released and look forward to every episode that comes out. The only criticism I would have is that after each podcast I usually want to buy the book because I am interested so my poor wallet suffers. ” — Gareth
+Be like Gareth. Buy a book: All the books featured on Founders Podcast
+
